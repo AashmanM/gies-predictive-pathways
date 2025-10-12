@@ -1,0 +1,1001 @@
+ID,REG_TERM,CLASS_LEVEL,COLL1,COLL2,MAJOR1,MAJOR2,MAJOR3,MAJOR4,MINOR1,MINOR2,MINOR3,MINOR4,FirstTerm_BM,LastTerm_BM,Student_Status,FIN221_IND,ACCY200_IND,ACCY201_IND,ACCY202_IND,BADM310_IND,BADM320_IND,BM_Grad_IND,CoreIND
+1,120221,Freshman,LER,,Labor & Employment Relations,,,,,,,,120161.0,,BM-NEW,0,0,0,0,0,0,0,No
+2,120161,Senior,BUS,,Operations Management,,,,,,,,,,Other,1,0,0,0,0,0,0,Yes
+3,120221,Sophomore,LAS,,Biology,,,,,,,,120161.0,,Other,0,0,0,0,0,0,0,No
+4,120151,Freshman,BUS,,Finance,,,,Business,,,,120161.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+5,120231,Sophomore,EDUC,,Special Education,,,,Business,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+6,120178,Junior,LAW,,Law (Undergrad Non-Degree/Pre-Law),,,,Business,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+7,120178,Sophomore,GCOE,,CS+Philosophy,,,,Business,,,,120151.0,120161.0,Other,0,0,0,0,0,1,0,Yes
+8,120231,Junior,MEDIA,,Media & Cinema Studies,,,,Business,,,,120221.0,120201.0,Other,0,0,0,0,0,0,0,No
+9,120228,Sophomore,EDUC,,Early Childhood Education,,,,,,,,,,BM-NEW,0,0,1,0,0,0,0,Yes
+10,120201,Junior,GCOE,,Aerospace Engineering,,,,Business,,,,120178.0,,Other,0,0,0,0,0,0,0,No
+11,120231,Junior,GCOE,,CS+Chemistry,,,,Business,Communication,,,120178.0,,Other,0,0,0,0,0,0,0,No
+12,120231,Senior,FAA,,Industrial Design,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+13,120161,Freshman,LAS,,Biochemistry,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+14,120201,Senior,GCOE,,Chemical Engineering,,,,Business,,,,,120231.0,BM-RETURNING,0,1,0,0,0,0,0,Yes
+15,120201,Freshman,DGS,,Undeclared (Division of General Studies),,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+16,120151,Senior,BUS,,Information Systems,,,,,Leadership Studies,,,120151.0,,Other,0,0,0,0,0,0,0,No
+17,120151,Freshman,EDUC,,Elementary Education,,,,,,,,,120231.0,Other,0,0,0,0,0,0,0,No
+18,120151,Senior,BUS,,Information Systems,,,,Business,,,,,120161.0,BM-NEW,0,0,0,0,0,0,0,No
+19,120151,Sophomore,LAS,,East Asian Languages & Cultures,,,,Business,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+20,120221,Freshman,LAS,,Mathematics,,,,Business,,,,,,BM-RETURNING,0,0,0,1,0,0,0,Yes
+21,120228,Senior,MEDIA,,Journalism,,,,Business,,,,,120231.0,Other,0,0,0,0,0,0,0,No
+22,120155,Graduate,LER,,Labor & Employment Relations,,,,,Communication,,,,,BM-RETURNING,0,0,0,1,0,0,0,Yes
+23,120178,Senior,LAS,,German,,,,Business,Leadership Studies,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+24,120161,Freshman,DGS,,Undeclared (Division of General Studies),,,,,Leadership Studies,,,,,BM-NEW,0,0,0,0,0,0,0,No
+25,120228,Freshman,LAS,,"Russian, E European & Eurasian Studies",,,,Business,,,,120201.0,120201.0,Gies,0,0,0,0,0,0,1,No
+26,120221,Junior,LAS,,Neuroscience,,,,,Communication,,,,,Other,0,0,0,0,0,0,0,No
+27,120151,Sophomore,ACES,,Human Development & Family Studies,,,,Business,,,,120161.0,120231.0,BM-RETURNING,1,0,0,0,0,0,0,Yes
+28,120221,Graduate,DGS,,Undeclared (Division of General Studies),,,,Business,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+29,120228,Senior,GCOE,,Agricultural & Biological Engineering,,,,,,,,120161.0,120231.0,BM-NEW,0,0,0,0,0,0,0,No
+30,120228,Sophomore,BUS,,Supply Chain Management,,,,,Communication,,,,,Other,0,0,0,0,0,0,0,No
+31,120221,Sophomore,ACES,,Crop Sciences,,,,Business,,,,120161.0,,Gies,0,0,0,0,0,0,0,No
+32,120231,Sophomore,iSchool,,Information Sciences + X,,,,,,,,,120231.0,BM-NEW,0,0,0,0,0,0,0,No
+33,120151,Graduate,GCOE,,CS+Crop Sciences,,,,,,,,,120161.0,BM-RETURNING,0,0,0,0,0,0,0,No
+34,120155,Junior,LAS,,Biology,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+35,120201,Sophomore,GCOE,,Computer Science,,,,,,,,120201.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+36,120178,Senior,ACES,,Human Development & Family Studies,,,,Business,Communication,,,120178.0,120161.0,Other,0,0,0,0,0,0,0,No
+37,120151,Junior,ACES,,Crop Sciences,,,,,,,,120161.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+38,120231,Junior,BUS,,Supply Chain Management,,,,,,,,,120201.0,Other,0,1,0,0,0,0,0,Yes
+39,120231,Senior,LAS,,"Russian, E European & Eurasian Studies",,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+40,120151,Senior,BUS,,Business Analytics,,,,,,,,120161.0,,BM-RETURNING,0,1,0,0,0,0,0,Yes
+41,120178,Sophomore,LAS,,"Russian, E European & Eurasian Studies",,,,,,,,,120231.0,Other,0,0,0,0,0,0,0,No
+42,120221,Freshman,GRAD,,Graduate Studies,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+43,120178,Sophomore,BUS,,Operations Management,,,,,,,,120201.0,,Other,0,1,0,0,1,0,0,Yes
+44,120221,Sophomore,GCOE,,Chemical Engineering,,,,Business,,,,,120231.0,Other,0,0,0,0,0,0,0,No
+45,120178,Junior,BUS,,Finance,,,,,,,,,,Other,0,1,0,0,0,0,0,Yes
+46,120201,Freshman,AHS,,Community Health,,,,,,,,120161.0,,Other,0,0,0,0,0,0,0,No
+47,120231,Senior,EDUC,,Special Education,,,,,,,,,120161.0,BM-NEW,1,0,0,0,0,0,0,Yes
+48,120151,Freshman,AHS,,Speech & Hearing Science,,,,Business,,,,120201.0,,BM-NEW,0,0,0,0,0,0,0,No
+49,120178,Junior,ACES,,Human Development & Family Studies,,,,Business,Leadership Studies,,,,120231.0,Other,0,0,0,0,0,0,0,No
+50,120201,Junior,LAS,,Global Studies,,,,Business,,,,,120201.0,BM-NEW,0,0,0,0,0,0,0,No
+51,120201,Freshman,LAS,,Chemistry,,,,Business,,,,,120201.0,Gies,0,0,0,0,0,0,0,No
+52,120231,Freshman,FAA,,Art Education,,,,Business,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+53,120151,Freshman,LAS,,African American Studies,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+54,120201,Sophomore,GRAD,,Graduate Studies,,,,,Leadership Studies,,,,,BM-NEW,0,0,0,0,0,0,0,No
+55,120178,Junior,GCOE,,CS+Chemistry,,,,Business,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+56,120228,Freshman,AHS,,Interdisciplinary Health Sciences,,,,,,,,120151.0,120201.0,Other,0,0,0,0,1,0,0,Yes
+57,120221,Senior,LAS,,Statistics,,,,,,,,120178.0,120161.0,BM-NEW,0,0,0,0,0,0,0,No
+58,120161,Junior,CIMED,,Medicine (Premed/Undergrad),,,,Business,Statistics,,,120151.0,,Other,0,0,0,0,0,0,0,No
+59,120228,Freshman,GRAD,,Graduate Studies,,,,Business,,,,120161.0,,Other,0,0,0,0,0,0,0,No
+60,120231,Junior,AHS,,"Recreation, Sport & Tourism",,,,,,,,120221.0,,BM-NEW,0,0,0,0,0,0,0,No
+61,120151,Sophomore,BUS,,Accountancy,,,,,,,,120221.0,,Gies,0,0,0,0,0,0,0,No
+62,120231,Junior,BUS,,Marketing,,,,,,,,120221.0,,Other,0,0,1,1,0,0,0,Yes
+63,120221,Junior,BUS,,Supply Chain Management,,,,Business,,,,,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+64,120231,Junior,iSchool,,Information Sciences + X,,,,,,,,,120231.0,BM-NEW,0,0,0,0,0,0,0,No
+65,120155,Freshman,FAA,,Music Technology,,,,,,,,120178.0,120231.0,Other,0,0,0,0,0,0,0,No
+66,120151,Sophomore,ACES,,Human Development & Family Studies,,,,,,,,,120231.0,Other,0,0,0,0,0,0,0,No
+67,120221,Freshman,LAS,,Spanish,,,,Business,,,,,120231.0,Other,0,0,0,0,0,0,0,No
+68,120221,Freshman,GCOE,,CS+Chemistry,,,,,Communication,,,120221.0,120201.0,BM-NEW,0,0,0,0,0,0,0,No
+69,120161,Senior,LAS,,Comparative Literature,,,,,Statistics,,,,,BM-NEW,0,0,0,0,0,0,0,No
+70,120161,Graduate,DGS,,Undeclared (Division of General Studies),,,,Business,,,,,120161.0,BM-RETURNING,0,0,0,0,0,0,0,No
+71,120161,Graduate,ACES,,Agribusiness Markets & Management,,,,,,,,120161.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+72,120228,Senior,LAS,,East Asian Languages & Cultures,,,,,,,,120221.0,120161.0,Gies,0,0,0,0,0,0,0,No
+73,120155,Junior,LAS,,German,,,,,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+74,120155,Graduate,GCOE,,Mechanical Engineering,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+75,120151,Senior,BUS,,Business Analytics,,,,Business,,,,,120201.0,BM-RETURNING,0,0,0,0,1,0,0,Yes
+76,120151,Junior,LAS,,German,,,,,Communication,,,120201.0,,Gies,0,0,0,0,0,0,0,No
+77,120221,Freshman,BUS,,Supply Chain Management,,,,Business,,,,120161.0,120231.0,BM-RETURNING,0,0,1,0,0,0,0,Yes
+78,120161,Freshman,BUS,,Operations Management,,,,Business,,,,120201.0,,Other,0,1,1,0,1,0,0,Yes
+79,120151,Graduate,EDUC,,Learning & Education Studies,,,,,Leadership Studies,,,120201.0,120201.0,Other,0,0,0,0,0,0,0,No
+80,120178,Junior,EDUC,,Special Education,,,,,,,,120151.0,,BM-RETURNING,0,1,0,0,0,0,0,Yes
+81,120178,Freshman,iSchool,,Information Sciences,,,,,,,,120201.0,120201.0,BM-NEW,1,0,0,0,0,0,0,Yes
+82,120178,Sophomore,GCOE,,Materials Science & Engineering,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+83,120178,Junior,DGS,,Undeclared (Division of General Studies),,,,,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+84,120161,Freshman,AHS,,Kinesiology,,,,Business,,,,,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+85,120201,Sophomore,BUS,,Supply Chain Management,,,,,,,,,,BM-RETURNING,0,1,0,0,0,0,0,Yes
+86,120221,Graduate,LAS,,Geography & GIS,,,,Business,,,,120151.0,120161.0,Gies,0,0,0,0,0,0,0,No
+87,120201,Junior,GRAD,,Graduate Studies,,,,Business,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+88,120151,Graduate,LAS,,Economics,,,,,,,,,120201.0,BM-RETURNING,0,0,0,0,0,0,0,No
+89,120155,Sophomore,BUS,,Business Analytics,,,,,,,,120161.0,,Other,0,0,1,0,0,0,0,Yes
+90,120155,Sophomore,EDUC,,Learning & Education Studies,,,,Business,,,,120151.0,120161.0,Other,0,0,0,0,0,0,0,No
+91,120178,Senior,LAS,,Statistics,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+92,120155,Freshman,DGS,,Undeclared (Division of General Studies),,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+93,120201,Sophomore,LAS,,Economics,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+94,120221,Sophomore,ACES,,Natural Resources & Environmental Sciences,,,,Business,Informatics,,,,120231.0,Other,1,1,0,0,0,0,0,Yes
+95,120178,Senior,LAS,,Advertising,,,,,,,,,,Other,0,0,1,0,0,0,0,Yes
+96,120221,Graduate,LAS,,Biology,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+97,120228,Sophomore,iSchool,,Information Sciences,,,,Business,,,,120151.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+98,120178,Sophomore,DGS,,Undeclared (Division of General Studies),,,,Business,,,,120151.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+99,120161,Freshman,LAS,,East Asian Languages & Cultures,,,,,,,,120151.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+100,120231,Freshman,ACES,,Natural Resources & Environmental Sciences,,,,Business,,,,,120231.0,Gies,0,0,0,0,0,0,0,No
+101,120155,Sophomore,LAS,,Classics,,,,,,,,120151.0,120231.0,BM-NEW,0,0,0,0,0,0,0,No
+102,120161,Freshman,LAS,,African American Studies,,,,Business,Leadership Studies,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+103,120231,Senior,AHS,,"Recreation, Sport & Tourism",,,,,,,,120201.0,120201.0,BM-RETURNING,0,0,1,0,0,0,0,Yes
+104,120178,Senior,LAS,,English,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+105,120228,Sophomore,DGS,,Undeclared (Division of General Studies),,,,,,,,,,Gies,0,0,0,0,0,0,0,No
+106,120161,Freshman,ACES,,Agricultural & Consumer Economics,,,,,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+107,120221,Freshman,FAA,,Music Composition,,,,Business,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+108,120228,Sophomore,LAS,,Comparative Literature,,,,,Informatics,,,,,Other,0,0,0,0,0,0,1,No
+109,120228,Junior,iSchool,,Information Sciences + X,,,,Business,Statistics,,,120151.0,120161.0,Other,0,0,0,0,0,0,0,No
+110,120161,Sophomore,DGS,,Undeclared (Division of General Studies),,,,Business,Communication,,,,120161.0,Other,0,0,0,0,0,0,0,No
+111,120231,Junior,AHS,,Community Health,,,,Business,,,,120221.0,120161.0,Other,0,0,0,0,0,0,0,No
+112,120228,Senior,LAS,,Biology,,,,Business,,,,120221.0,120161.0,Other,0,1,0,0,0,1,0,Yes
+113,120161,Sophomore,MEDIA,,Media & Cinema Studies,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+114,120178,Senior,FAA,,Music Technology,,,,Business,Statistics,,,120161.0,120161.0,BM-NEW,0,0,0,0,0,0,0,No
+115,120201,Senior,BUS,,Supply Chain Management,,,,,,,,,,Other,0,0,0,1,1,1,0,Yes
+116,120151,Freshman,GCOE,,CS+Linguistics,,,,Business,Informatics,,,120178.0,120161.0,BM-NEW,0,0,0,0,0,0,0,No
+117,120231,Sophomore,LER,,Labor & Employment Relations,,,,Business,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+118,120155,Freshman,BUS,,Accountancy,,,,Business,Communication,,,,,BM-NEW,0,1,0,0,0,1,1,Yes
+119,120151,Junior,GRAD,,Graduate Studies,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+120,120151,Freshman,BUS,,Supply Chain Management,,,,,,,,,120161.0,BM-RETURNING,0,0,0,0,0,0,0,No
+121,120155,Freshman,LAS,,Advertising,,,,,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+122,120228,Senior,FAA,,Architecture,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+123,120228,Junior,BUS,,Accountancy,,,,Business,Leadership Studies,,,,,Other,0,1,1,0,0,0,0,Yes
+124,120231,Junior,BUS,,Finance,,,,Business,,,,120151.0,,Gies,0,1,0,1,0,0,0,Yes
+125,120161,Sophomore,BUS,,Operations Management,,,,,,,,,120201.0,Other,0,1,1,0,1,0,0,Yes
+126,120228,Sophomore,EDUC,,Learning & Education Studies,,,,Business,Statistics,,,,,Other,0,0,0,0,0,0,0,No
+127,120231,Senior,LER,,Labor & Employment Relations,,,,,Communication,,,120221.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+128,120178,Senior,GCOE,,Mechanical Engineering,,,,Business,Communication,,,120151.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+129,120161,Sophomore,GCOE,,Chemical Engineering,,,,,,,,120178.0,120231.0,BM-NEW,0,0,0,0,0,0,0,No
+130,120178,Freshman,FAA,,Landscape Architecture,,,,,Communication,,,,,Other,0,0,0,0,0,0,0,No
+131,120178,Freshman,GCOE,,Chemical Engineering,,,,Business,,,,,,Gies,1,0,0,0,0,0,0,Yes
+132,120228,Sophomore,LER,,Labor & Employment Relations,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+133,120201,Freshman,GCOE,,Bioengineering,,,,,,,,120161.0,,BM-NEW,0,0,0,0,0,0,0,No
+134,120221,Senior,GCOE,,CS+Economics,,,,,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+135,120231,Junior,GCOE,,CS+Crop Sciences,,,,,,,,120151.0,,BM-RETURNING,0,0,1,0,0,0,0,Yes
+136,120221,Sophomore,FAA,,Music Performance,,,,Business,,,,120178.0,120161.0,BM-RETURNING,0,1,0,0,0,0,0,Yes
+137,120231,Junior,ACES,,Agribusiness Markets & Management,,,,Business,,,,120178.0,,Other,0,0,0,0,0,0,0,No
+138,120228,Sophomore,SSW,,Social Work,,,,Business,Communication,,,120221.0,,Other,0,0,0,0,0,0,0,No
+139,120231,Sophomore,FAA,,Music,,,,,,,,120178.0,120231.0,Other,0,0,0,0,0,0,0,No
+140,120201,Sophomore,BUS,,Accountancy,,,,Business,,,,,,BM-RETURNING,1,1,0,0,1,0,0,Yes
+141,120201,Senior,LAS,,Biology,,,,,,,,,120231.0,BM-RETURNING,0,0,0,0,0,1,0,Yes
+142,120151,Sophomore,CIMED,,Medicine (Premed/Undergrad),,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+143,120201,Sophomore,FAA,,Music,,,,,,,,,120161.0,BM-NEW,0,0,0,0,0,1,0,Yes
+144,120155,Junior,AHS,,"Recreation, Sport & Tourism",,,,,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+145,120228,Junior,ACES,,Animal Sciences,,,,,,,,120151.0,120161.0,BM-RETURNING,0,0,0,0,0,0,0,No
+146,120221,Senior,BUS,,Information Systems,,,,,,,,120161.0,120161.0,BM-RETURNING,0,0,1,0,0,0,0,Yes
+147,120155,Sophomore,LAW,,Law (Undergrad Non-Degree/Pre-Law),,,,,Informatics,,,,,Other,0,0,0,0,0,0,0,No
+148,120161,Junior,GCOE,,Environmental Engineering,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+149,120228,Junior,GCOE,,Electrical Engineering,,,,,Leadership Studies,,,,120231.0,Other,1,0,0,0,0,0,0,Yes
+150,120151,Sophomore,AHS,,Kinesiology,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+151,120231,Senior,LAS,,Astronomy,,,,Business,Statistics,,,120201.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+152,120178,Senior,EDUC,,Learning & Education Studies,,,,,,,,120201.0,,Other,0,0,0,0,0,0,0,No
+153,120161,Sophomore,FAA,,Architectural Studies,,,,Business,,,,,120231.0,Other,0,0,0,0,0,1,0,Yes
+154,120161,Sophomore,LAS,,Advertising,,,,,Communication,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+155,120201,Senior,LAS,,History,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+156,120161,Junior,GRAD,,Graduate Studies,,,,,,,,120151.0,120231.0,BM-NEW,0,0,0,0,0,0,0,No
+157,120201,Sophomore,LAS,,Psychology,,,,Business,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+158,120151,Graduate,GCOE,,CS+Geography & GIS,,,,Business,,,,120201.0,,Gies,0,1,1,0,0,0,0,Yes
+159,120178,Senior,EDUC,,Learning & Education Studies,,,,Business,,,,120161.0,,Other,0,1,0,0,0,0,0,Yes
+160,120178,Freshman,LAS,,Philosophy,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+161,120155,Sophomore,GCOE,,CS+Philosophy,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+162,120221,Junior,LAS,,East Asian Languages & Cultures,,,,,,,,120151.0,120201.0,BM-RETURNING,0,0,0,0,0,0,0,No
+163,120151,Sophomore,GCOE,,Industrial Engineering,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+164,120201,Sophomore,LAS,,"Russian, E European & Eurasian Studies",,,,Business,,,,120161.0,,BM-NEW,0,0,0,0,0,0,0,No
+165,120178,Senior,BUS,,Operations Management,,,,,,,,120151.0,120231.0,Other,1,0,0,0,0,0,0,Yes
+166,120221,Freshman,BUS,,Business Analytics,,,,,,,,120221.0,,Other,0,1,0,0,0,0,0,Yes
+167,120155,Sophomore,ACES,,Food Science & Human Nutrition,,,,,,,,,120201.0,BM-RETURNING,0,0,0,0,0,0,0,No
+168,120228,Sophomore,VetMed,,Veterinary Medicine (Preveterinary/Undergrad),,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+169,120221,Freshman,LAS,,Advertising,,,,,Statistics,,,,,Other,0,0,0,0,0,0,0,No
+170,120161,Freshman,GCOE,,CS+Astronomy,,,,,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+171,120178,Junior,AHS,,"Recreation, Sport & Tourism",,,,,,,,120178.0,120201.0,Other,0,0,0,0,0,0,0,No
+172,120178,Sophomore,LER,,Labor & Employment Relations,,,,Business,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+173,120161,Sophomore,BUS,,Information Systems,,,,Business,,,,,,Gies,0,0,0,1,1,0,0,Yes
+174,120178,Senior,GRAD,,Graduate Studies,,,,Business,Informatics,,,,120201.0,BM-RETURNING,0,0,0,0,0,0,0,No
+175,120151,Senior,CIMED,,Medicine (Premed/Undergrad),,,,Business,,,,,120161.0,Gies,0,0,0,0,0,0,0,No
+176,120151,Senior,BUS,,Accountancy,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+177,120231,Senior,LAS,,"Russian, E European & Eurasian Studies",,,,Business,,,,120178.0,120201.0,Other,0,0,0,0,0,0,0,No
+178,120231,Junior,LAS,,Linguistics,,,,Business,,,,,120231.0,Other,0,0,0,0,0,0,0,No
+179,120221,Junior,MEDIA,,Journalism,,,,,Communication,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+180,120228,Sophomore,AHS,,Community Health,,,,,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+181,120228,Freshman,LAS,,German,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+182,120155,Senior,BUS,,Business Analytics,,,,,,,,,120161.0,BM-NEW,0,1,0,0,0,0,0,Yes
+183,120178,Freshman,SSW,,Social Work,,,,,,,,,120231.0,Other,0,0,0,0,0,0,0,No
+184,120155,Sophomore,FAA,,Architecture,,,,,,,,120151.0,,Gies,0,0,0,0,0,0,0,No
+185,120228,Freshman,LAS,,History,,,,Business,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+186,120201,Sophomore,FAA,,Art Education,,,,,,,,120151.0,,BM-NEW,0,0,0,0,0,0,0,No
+187,120228,Junior,GCOE,,Engineering Mechanics,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+188,120231,Sophomore,GCOE,,Computer Science,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+189,120178,Freshman,GRAD,,Graduate Studies,,,,Business,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+190,120155,Senior,DGS,,Undeclared (Division of General Studies),,,,Business,,,,,120231.0,Other,0,0,0,0,0,0,0,No
+191,120155,Junior,LAS,,"Russian, E European & Eurasian Studies",,,,Business,,,,120221.0,120231.0,Gies,0,0,0,0,0,0,0,No
+192,120161,Graduate,LAS,,Molecular & Cellular Biology,,,,Business,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+193,120155,Junior,GRAD,,Graduate Studies,,,,Business,Leadership Studies,,,,,Other,0,0,0,0,0,0,0,No
+194,120151,Senior,BUS,,Information Systems,,,,,,,,120201.0,120201.0,BM-NEW,0,0,0,0,0,0,0,No
+195,120201,Senior,LAS,,Geography & GIS,,,,Business,Statistics,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+196,120161,Junior,BUS,,Business Analytics,,,,,,,,,120201.0,Gies,1,1,0,1,0,0,0,Yes
+197,120151,Graduate,LAS,,Neuroscience,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+198,120151,Senior,EDUC,,Learning & Education Studies,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+199,120201,Junior,AHS,,"Recreation, Sport & Tourism",,,,,,,,120151.0,,Other,0,0,0,1,0,0,0,Yes
+200,120231,Sophomore,FAA,,Music Composition,,,,,,,,120151.0,,Other,0,0,0,0,1,0,0,Yes
+201,120201,Junior,GRAD,,Graduate Studies,,,,,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+202,120161,Sophomore,LAS,,Political Science,,,,Business,,,,120161.0,120161.0,Other,0,0,1,0,0,0,0,Yes
+203,120178,Junior,GRAD,,Graduate Studies,,,,,,,,,,Gies,0,0,0,0,0,0,0,No
+204,120178,Sophomore,LER,,Labor & Employment Relations,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+205,120201,Sophomore,GCOE,,Civil Engineering,,,,,,,,,,Other,0,0,0,1,0,0,0,Yes
+206,120151,Senior,MEDIA,,Journalism,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+207,120155,Junior,LAS,,Psychology,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+208,120178,Graduate,LAS,,Actuarial Science,,,,Business,,,,120221.0,,BM-NEW,0,0,0,0,0,0,0,No
+209,120155,Sophomore,FAA,,Music Performance,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+210,120221,Freshman,ACES,,Agri-Accounting,,,,,,,,120201.0,120201.0,Other,0,0,0,0,0,0,0,No
+211,120221,Senior,GCOE,,Agricultural & Biological Engineering,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+212,120178,Freshman,GCOE,,Industrial Engineering,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+213,120151,Sophomore,FAA,,Music Performance,,,,Business,Communication,,,,,Other,0,0,0,0,0,0,0,No
+214,120221,Senior,GCOE,,CS+Economics,,,,Business,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+215,120155,Junior,LAS,,"Earth, Society & Environmental Sustainability",,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+216,120201,Freshman,LAS,,Physics,,,,,,,,120201.0,,Other,0,0,0,0,0,0,0,No
+217,120228,Senior,GCOE,,CS+Linguistics,,,,,Leadership Studies,,,120151.0,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+218,120201,Junior,GRAD,,Graduate Studies,,,,,,,,120221.0,,BM-NEW,0,0,0,0,0,0,0,No
+219,120151,Senior,GRAD,,Graduate Studies,,,,,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+220,120161,Freshman,LAS,,Political Science,,,,,Informatics,,,,120231.0,Other,0,0,0,0,0,0,0,No
+221,120178,Sophomore,LAS,,Global Studies,,,,Business,,,,120161.0,120231.0,BM-NEW,0,0,0,0,0,1,0,Yes
+222,120228,Freshman,GCOE,,Computer Engineering,,,,Business,,,,,,BM-RETURNING,0,0,0,0,1,0,0,Yes
+223,120151,Sophomore,GCOE,,CS+Philosophy,,,,Business,,,,,120201.0,Gies,0,0,0,0,0,0,0,No
+224,120151,Junior,GCOE,,Industrial Engineering,,,,Business,,,,,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+225,120221,Junior,GCOE,,CS+Chemistry,,,,,Communication,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+226,120201,Freshman,EDUC,,Special Education,,,,,Leadership Studies,,,,120201.0,BM-RETURNING,0,0,0,0,0,1,0,Yes
+227,120201,Senior,VetMed,,Veterinary Medicine (Preveterinary/Undergrad),,,,,Informatics,,,120221.0,,BM-NEW,1,0,0,0,1,0,0,Yes
+228,120155,Senior,GCOE,,CS+Chemistry,,,,,Statistics,,,120178.0,120161.0,Other,0,0,0,0,0,0,0,No
+229,120178,Senior,LAS,,French,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+230,120161,Sophomore,DGS,,Undeclared (Division of General Studies),,,,,,,,120201.0,,Other,0,0,0,0,0,0,0,No
+231,120201,Sophomore,LAS,,Statistics,,,,,Informatics,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+232,120231,Junior,SSW,,Social Work,,,,,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+233,120228,Freshman,DGS,,Undeclared (Division of General Studies),,,,Business,,,,120178.0,,Other,0,0,0,0,0,0,0,No
+234,120178,Senior,LAS,,Sociology,,,,,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+235,120151,Sophomore,LAS,,Advertising,,,,Business,Informatics,,,,,Other,0,0,0,0,0,0,0,No
+236,120178,Graduate,DGS,,Undeclared (Division of General Studies),,,,,,,,120221.0,,Other,1,0,1,0,1,1,0,Yes
+237,120228,Sophomore,LAS,,Sociology,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+238,120231,Junior,GRAD,,Graduate Studies,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+239,120221,Sophomore,ACES,,Crop Sciences,,,,,,,,120221.0,,Other,0,0,0,0,1,0,0,Yes
+240,120178,Senior,iSchool,,Information Sciences + X,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+241,120161,Junior,GCOE,,Computer Engineering,,,,Business,,,,120221.0,,Gies,0,0,0,0,0,0,0,No
+242,120161,Junior,AHS,,Speech & Hearing Science,,,,Business,,,,120178.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+243,120228,Sophomore,LAS,,"Russian, E European & Eurasian Studies",,,,,Communication,,,120201.0,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+244,120178,Junior,LAS,,Geography & GIS,,,,,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+245,120161,Sophomore,LAS,,Religion,,,,Business,,,,120201.0,120201.0,Other,0,0,0,0,0,0,0,No
+246,120151,Senior,LAS,,Creative Writing,,,,Business,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+247,120151,Freshman,MEDIA,,Journalism,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+248,120151,Freshman,GRAD,,Graduate Studies,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+249,120151,Freshman,LAS,,English,,,,Business,Statistics,,,120151.0,,Other,0,0,0,0,0,0,0,No
+250,120231,Sophomore,LER,,Labor & Employment Relations,,,,,,,,,120201.0,Gies,0,0,0,0,0,0,0,No
+251,120178,Graduate,LAS,,Philosophy,,,,,,,,,,Other,1,0,0,0,0,0,0,Yes
+252,120161,Junior,LAS,,Communication,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+253,120161,Freshman,LAS,,Creative Writing,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+254,120155,Sophomore,MEDIA,,Journalism,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+255,120221,Junior,ACES,,Agri-Accounting,,,,,Informatics,,,120201.0,,Other,0,1,0,0,0,0,0,Yes
+256,120178,Graduate,GCOE,,Electrical Engineering,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+257,120228,Senior,AHS,,Speech & Hearing Science,,,,Business,Statistics,,,120221.0,120231.0,Gies,1,0,0,0,0,0,0,Yes
+258,120161,Graduate,LAS,,English,,,,,,,,120201.0,,Other,0,0,0,0,0,0,0,No
+259,120201,Sophomore,GCOE,,Agricultural & Biological Engineering,,,,Business,,,,120178.0,,Other,0,0,0,0,0,0,0,No
+260,120161,Junior,DGS,,Undeclared (Division of General Studies),,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+261,120231,Sophomore,GRAD,,Graduate Studies,,,,,Leadership Studies,,,,,Other,0,0,0,0,0,0,0,No
+262,120151,Sophomore,iSchool,,Information Sciences + X,,,,Business,,,,,120161.0,BM-NEW,0,0,0,0,0,0,0,No
+263,120231,Sophomore,LAS,,History,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+264,120201,Junior,LAS,,Neuroscience,,,,Business,,,,,,Gies,0,0,0,0,0,1,0,Yes
+265,120221,Freshman,ACES,,Food Science & Human Nutrition,,,,Business,Informatics,,,,,Other,0,0,0,0,0,0,0,No
+266,120221,Sophomore,LAS,,Neuroscience,,,,,,,,,,Other,0,1,0,0,0,0,0,Yes
+267,120201,Freshman,LAS,,Comparative Literature,,,,Business,Statistics,,,,,BM-NEW,0,0,0,0,0,0,0,No
+268,120151,Junior,BUS,,Finance,,,,Business,,,,120221.0,,Other,0,0,0,0,0,1,0,Yes
+269,120155,Sophomore,DGS,,Undeclared (Division of General Studies),,,,,,,,,120161.0,BM-NEW,0,0,0,0,1,0,0,Yes
+270,120231,Junior,GCOE,,Computer Engineering,,,,,,,,,120201.0,BM-RETURNING,0,0,0,0,0,0,0,No
+271,120155,Junior,ACES,,Animal Sciences,,,,Business,,,,,120231.0,Other,0,0,0,0,0,0,0,No
+272,120161,Senior,LAS,,Biology,,,,,Statistics,,,120201.0,,Other,0,0,0,0,0,0,0,No
+273,120151,Freshman,LAS,,Comparative Literature,,,,Business,,,,120201.0,,Other,0,0,0,0,0,0,0,No
+274,120201,Junior,BUS,,Information Systems,,,,,Communication,,,120178.0,,Other,0,1,1,0,0,0,0,Yes
+275,120201,Freshman,GCOE,,Computer Engineering,,,,,,,,120151.0,120201.0,Other,0,0,0,0,0,0,0,No
+276,120201,Junior,LAS,,Anthropology,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+277,120201,Sophomore,FAA,,Art History,,,,,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+278,120178,Junior,GCOE,,Civil Engineering,,,,,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+279,120228,Freshman,DGS,,Undeclared (Division of General Studies),,,,,,,,120151.0,,BM-RETURNING,0,0,0,0,0,1,0,Yes
+280,120201,Sophomore,DGS,,Undeclared (Division of General Studies),,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+281,120151,Sophomore,LAS,,Sociology,,,,Business,,,,,120161.0,BM-RETURNING,0,1,0,0,0,0,0,Yes
+282,120178,Junior,BUS,,Finance,,,,,,,,,120161.0,Other,0,1,0,0,0,1,0,Yes
+283,120201,Senior,GCOE,,Computer Science,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+284,120155,Sophomore,ACES,,Agricultural & Consumer Economics,,,,,,,,120161.0,120201.0,Other,0,0,0,0,0,0,0,No
+285,120155,Sophomore,GCOE,,Electrical Engineering,,,,Business,,,,,120231.0,Gies,0,1,0,0,1,0,0,Yes
+286,120231,Sophomore,BUS,,Finance,,,,,,,,120221.0,,Other,1,0,0,0,0,0,0,Yes
+287,120221,Junior,GCOE,,CS+Geography & GIS,,,,Business,,,,,120161.0,Other,0,0,0,0,0,0,1,No
+288,120155,Senior,AHS,,Kinesiology,,,,,,,,,,Gies,0,0,0,0,0,0,0,No
+289,120161,Sophomore,GCOE,,Agricultural & Biological Engineering,,,,Business,,,,120178.0,,Other,0,0,0,0,0,1,0,Yes
+290,120161,Junior,BUS,,Finance,,,,Business,,,,,,Other,0,0,0,0,0,1,0,Yes
+291,120151,Senior,CIMED,,Medicine (Premed/Undergrad),,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+292,120151,Freshman,GCOE,,Civil Engineering,,,,,Leadership Studies,,,,,Gies,0,0,0,0,0,0,0,No
+293,120231,Freshman,BUS,,Information Systems,,,,Business,Statistics,,,,,Other,1,0,0,0,1,1,0,Yes
+294,120155,Sophomore,FAA,,Art Education,,,,Business,Informatics,,,,,Other,0,0,0,0,0,0,0,No
+295,120155,Senior,DGS,,Undeclared (Division of General Studies),,,,,Statistics,,,,120201.0,BM-NEW,0,0,0,0,0,0,0,No
+296,120201,Freshman,MEDIA,,Journalism,,,,Business,,,,120201.0,,Other,0,0,0,0,0,0,0,No
+297,120178,Sophomore,LAS,,Advertising,,,,Business,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+298,120201,Senior,BUS,,Operations Management,,,,,,,,120161.0,120161.0,BM-NEW,0,1,1,0,0,0,0,Yes
+299,120151,Graduate,BUS,,Business Analytics,,,,Business,,,,,,Other,1,1,0,0,0,0,0,Yes
+300,120155,Junior,BUS,,Supply Chain Management,,,,,,,,120201.0,,Gies,0,0,1,0,0,0,0,Yes
+301,120161,Senior,SSW,,Social Work,,,,,Informatics,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+302,120151,Junior,GCOE,,Bioengineering,,,,,,,,120178.0,120161.0,Gies,0,0,0,0,0,0,0,No
+303,120151,Sophomore,BUS,,Accountancy,,,,,Statistics,,,,120161.0,Other,0,0,1,0,0,0,0,Yes
+304,120231,Freshman,GCOE,,Computer Science,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+305,120201,Junior,ACES,,Human Development & Family Studies,,,,Business,,,,120161.0,,Other,0,0,0,0,0,0,0,No
+306,120178,Senior,AHS,,Community Health,,,,,,,,120221.0,120201.0,Other,0,0,0,0,0,0,0,No
+307,120161,Senior,CIMED,,Medicine (Premed/Undergrad),,,,,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+308,120201,Senior,GCOE,,Aerospace Engineering,,,,,,,,120161.0,120201.0,BM-RETURNING,0,0,0,0,0,0,0,No
+309,120151,Sophomore,LAS,,Advertising,,,,,Communication,,,,120231.0,Other,0,0,0,0,0,0,0,No
+310,120231,Sophomore,MEDIA,,Advertising,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+311,120231,Sophomore,LAS,,Comparative Literature,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+312,120221,Freshman,DGS,,Undeclared (Division of General Studies),,,,Business,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+313,120221,Senior,LAS,,Communication,,,,,,,,120178.0,,Other,0,0,0,0,0,0,0,No
+314,120155,Freshman,FAA,,Architectural Studies,,,,,,,,120178.0,,Gies,0,0,0,0,0,0,0,No
+315,120201,Senior,AHS,,Speech & Hearing Science,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+316,120178,Senior,ACES,,Agricultural & Consumer Economics,,,,Business,Communication,,,,120201.0,Gies,0,0,0,0,0,0,0,No
+317,120155,Junior,AHS,,Interdisciplinary Health Sciences,,,,,,,,120201.0,120231.0,BM-NEW,0,0,0,0,0,0,0,No
+318,120228,Junior,ACES,,Agri-Accounting,,,,Business,,,,120178.0,,BM-NEW,0,0,0,0,0,0,0,No
+319,120231,Junior,AHS,,Interdisciplinary Health Sciences,,,,Business,,,,,120161.0,Other,1,0,0,0,0,0,0,Yes
+320,120161,Junior,LAS,,Global Studies,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+321,120155,Freshman,VetMed,,Veterinary Medicine (Preveterinary/Undergrad),,,,,,,,,120231.0,Other,0,0,0,0,0,0,0,No
+322,120201,Junior,BUS,,Business Analytics,,,,Business,,,,120161.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+323,120231,Junior,GRAD,,Graduate Studies,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+324,120178,Sophomore,LAS,,Philosophy,,,,Business,Communication,,,120178.0,,Gies,0,0,0,0,0,0,0,No
+325,120221,Sophomore,LAS,,Molecular & Cellular Biology,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+326,120178,Freshman,LAS,,Biochemistry,,,,Business,,,,120221.0,120201.0,Gies,0,0,0,0,0,0,0,No
+327,120228,Senior,DGS,,Undeclared (Division of General Studies),,,,Business,,,,120178.0,,BM-NEW,0,0,0,0,0,0,0,No
+328,120155,Graduate,GRAD,,Graduate Studies,,,,Business,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+329,120228,Sophomore,iSchool,,Information Sciences,,,,Business,,,,120201.0,,Gies,0,0,0,0,0,0,0,No
+330,120231,Freshman,EDUC,,Learning & Education Studies,,,,Business,Informatics,,,,,Other,0,0,0,0,0,0,0,No
+331,120228,Freshman,ACES,,Animal Sciences,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+332,120161,Junior,LAS,,East Asian Languages & Cultures,,,,,,,,,120231.0,Other,0,1,0,0,0,0,0,Yes
+333,120161,Senior,LAS,,Biology,,,,,,,,120161.0,120161.0,Other,0,0,0,0,0,0,1,No
+334,120151,Sophomore,ACES,,Food Science & Human Nutrition,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+335,120151,Freshman,EDUC,,Special Education,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+336,120178,Graduate,GCOE,,Mechanical Engineering,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+337,120231,Sophomore,AHS,,Kinesiology,,,,,,,,120221.0,,Other,1,0,0,0,0,0,0,Yes
+338,120155,Freshman,DGS,,Undeclared (Division of General Studies),,,,Business,Statistics,,,120151.0,120201.0,BM-NEW,0,0,0,0,0,0,0,No
+339,120155,Senior,GCOE,,Environmental Engineering,,,,Business,,,,,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+340,120221,Sophomore,DGS,,Undeclared (Division of General Studies),,,,,Communication,,,,120231.0,Other,0,0,0,0,0,0,0,No
+341,120221,Freshman,ACES,,Agri-Accounting,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+342,120178,Junior,LAS,,East Asian Languages & Cultures,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+343,120178,Junior,iSchool,,Information Sciences + X,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+344,120201,Freshman,GCOE,,CS+Geography & GIS,,,,,,,,,120201.0,Gies,0,0,0,0,0,0,0,No
+345,120221,Freshman,SSW,,Social Work,,,,,,,,120161.0,,BM-NEW,0,0,0,0,0,0,0,No
+346,120161,Freshman,BUS,,Supply Chain Management,,,,Business,,,,120161.0,,Other,0,0,1,0,0,1,0,Yes
+347,120221,Freshman,BUS,,Accountancy,,,,,,,,120151.0,120201.0,Other,1,0,0,0,0,0,0,Yes
+348,120151,Senior,GRAD,,Graduate Studies,,,,,Communication,,,,120161.0,Other,0,0,0,0,1,0,0,Yes
+349,120231,Senior,CIMED,,Medicine (Premed/Undergrad),,,,,,,,120221.0,120161.0,BM-RETURNING,0,0,0,0,0,0,0,No
+350,120151,Senior,VetMed,,Veterinary Medicine (Preveterinary/Undergrad),,,,Business,,,,120178.0,,Other,0,0,0,0,0,0,0,No
+351,120178,Junior,CIMED,,Medicine (Premed/Undergrad),,,,Business,Statistics,,,,,Gies,0,0,0,0,0,1,0,Yes
+352,120151,Junior,CIMED,,Medicine (Premed/Undergrad),,,,,,,,,,BM-RETURNING,0,1,1,0,0,0,0,Yes
+353,120161,Freshman,GCOE,,Chemical Engineering,,,,,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+354,120221,Freshman,BUS,,Supply Chain Management,,,,Business,,,,120161.0,120201.0,Other,1,1,0,0,0,0,0,Yes
+355,120151,Freshman,MEDIA,,Media & Cinema Studies,,,,Business,Leadership Studies,,,120201.0,,Other,0,0,0,0,0,0,0,No
+356,120201,Junior,GCOE,,Electrical Engineering,,,,,Informatics,,,120178.0,120231.0,Other,0,0,0,0,0,0,0,No
+357,120201,Sophomore,GCOE,,CS+Geography & GIS,,,,,Informatics,,,,,Other,0,0,0,0,0,0,0,No
+358,120161,Sophomore,ACES,,Crop Sciences,,,,,,,,120201.0,,Other,0,0,0,0,0,0,0,No
+359,120178,Freshman,GRAD,,Graduate Studies,,,,Business,Leadership Studies,,,120151.0,120161.0,Other,0,0,0,0,0,0,0,No
+360,120231,Freshman,GRAD,,Graduate Studies,,,,Business,,,,,120161.0,BM-NEW,0,0,0,0,0,0,0,No
+361,120221,Sophomore,BUS,,Marketing,,,,Business,,,,,,Other,1,0,0,1,0,0,0,Yes
+362,120201,Senior,BUS,,Operations Management,,,,,Leadership Studies,,,120201.0,120161.0,BM-RETURNING,0,0,0,0,0,1,0,Yes
+363,120178,Sophomore,GCOE,,CS+Statistics,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+364,120151,Senior,GRAD,,Graduate Studies,,,,,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+365,120161,Senior,EDUC,,Special Education,,,,,Leadership Studies,,,120201.0,,Other,0,0,0,0,0,0,0,No
+366,120178,Sophomore,GCOE,,CS+Astronomy,,,,,,,,,120201.0,BM-NEW,0,0,0,0,0,0,0,No
+367,120178,Junior,GCOE,,Bioengineering,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+368,120161,Graduate,GCOE,,Industrial Engineering,,,,Business,,,,120221.0,,Other,1,0,0,0,0,0,0,Yes
+369,120201,Freshman,GCOE,,CS+Philosophy,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+370,120178,Senior,LAS,,Linguistics,,,,,,,,120178.0,,Other,0,0,0,0,0,0,0,No
+371,120178,Senior,BUS,,Marketing,,,,,,,,,120161.0,BM-NEW,0,1,1,0,0,0,0,Yes
+372,120201,Sophomore,LAS,,Global Studies,,,,,Leadership Studies,,,120161.0,120231.0,Other,0,1,0,0,0,0,0,Yes
+373,120155,Sophomore,GCOE,,Computer Engineering,,,,Business,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+374,120178,Sophomore,ACES,,Agricultural & Consumer Economics,,,,,Communication,,,,,Other,0,0,0,0,0,0,0,No
+375,120178,Sophomore,LAS,,Comparative Literature,,,,,,,,,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+376,120201,Junior,FAA,,Music,,,,Business,,,,120201.0,,BM-NEW,0,0,0,0,0,0,0,No
+377,120231,Freshman,LAS,,Chemistry,,,,,Informatics,,,120221.0,,Other,0,0,0,0,0,0,0,No
+378,120201,Sophomore,SSW,,Social Work,,,,,Communication,,,,120161.0,BM-RETURNING,0,0,0,0,0,0,0,No
+379,120201,Freshman,FAA,,Art Education,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+380,120201,Sophomore,LAS,,Actuarial Science,,,,,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+381,120155,Freshman,LAS,,Actuarial Science,,,,Business,,,,,,Gies,1,0,0,0,0,0,0,Yes
+382,120201,Freshman,GRAD,,Graduate Studies,,,,,,,,120161.0,,BM-NEW,0,0,0,0,0,0,0,No
+383,120228,Senior,GCOE,,CS+Philosophy,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+384,120155,Sophomore,GRAD,,Graduate Studies,,,,,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+385,120231,Junior,MEDIA,,Media & Cinema Studies,,,,Business,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+386,120228,Junior,LAS,,Geography & GIS,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+387,120231,Junior,FAA,,Urban Planning,,,,,Informatics,,,,,Other,0,0,0,0,0,0,0,No
+388,120155,Sophomore,GCOE,,CS+Philosophy,,,,,,,,120178.0,,Other,0,1,0,0,0,0,0,Yes
+389,120155,Sophomore,GRAD,,Graduate Studies,,,,,Statistics,,,,,BM-NEW,0,0,0,0,0,0,0,No
+390,120161,Sophomore,BUS,,Information Systems,,,,Business,,,,120178.0,120231.0,BM-RETURNING,1,0,0,0,0,0,0,Yes
+391,120155,Sophomore,GCOE,,Agricultural & Biological Engineering,,,,Business,Leadership Studies,,,120178.0,,Other,0,0,0,0,0,0,0,No
+392,120228,Sophomore,FAA,,Art History,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+393,120221,Freshman,LAS,,Religion,,,,Business,,,,,,Other,0,0,0,0,1,0,0,Yes
+394,120155,Sophomore,GCOE,,Computer Science,,,,Business,,,,120178.0,,Other,0,0,0,0,0,0,0,No
+395,120231,Freshman,LAS,,Advertising,,,,Business,,,,120161.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+396,120161,Sophomore,DGS,,Undeclared (Division of General Studies),,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+397,120161,Freshman,BUS,,Finance,,,,Business,Informatics,,,,,Other,0,1,0,1,0,1,0,Yes
+398,120151,Junior,iSchool,,Information Sciences + X,,,,,,,,,120231.0,BM-NEW,0,0,0,0,0,0,0,No
+399,120178,Freshman,VetMed,,Veterinary Medicine (Preveterinary/Undergrad),,,,Business,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+400,120228,Freshman,ACES,,Animal Sciences,,,,Business,Leadership Studies,,,120221.0,120161.0,BM-NEW,0,0,0,0,0,0,0,No
+401,120155,Sophomore,LAS,,African American Studies,,,,Business,,,,120161.0,,Other,0,0,0,0,0,0,0,No
+402,120155,Freshman,ACES,,Agri-Accounting,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+403,120201,Graduate,LAS,,Sociology,,,,Business,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+404,120201,Graduate,EDUC,,Elementary Education,,,,,,,,120161.0,,Gies,0,0,0,0,0,0,0,No
+405,120161,Freshman,LAS,,Biology,,,,,Informatics,,,,,Other,0,0,0,0,0,0,0,No
+406,120221,Senior,LAS,,Creative Writing,,,,,,,,120151.0,,BM-NEW,0,0,0,0,0,0,0,No
+407,120161,Sophomore,LAS,,Creative Writing,,,,Business,Informatics,,,,,Other,1,0,0,0,0,0,0,Yes
+408,120161,Sophomore,LAS,,Portuguese,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+409,120155,Freshman,SSW,,Social Work,,,,Business,,,,120178.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+410,120151,Senior,VetMed,,Veterinary Medicine (Preveterinary/Undergrad),,,,Business,Informatics,,,,,Other,0,0,0,0,0,0,0,No
+411,120155,Freshman,GCOE,,Computer Science,,,,,,,,,,Gies,0,0,0,0,0,0,0,No
+412,120151,Senior,MEDIA,,Journalism,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+413,120151,Junior,GRAD,,Graduate Studies,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+414,120161,Graduate,MEDIA,,Journalism,,,,Business,,,,120201.0,120161.0,Other,0,0,0,0,0,0,0,No
+415,120151,Senior,GCOE,,Computer Engineering,,,,Business,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+416,120201,Sophomore,ACES,,Natural Resources & Environmental Sciences,,,,Business,Communication,,,120201.0,,Other,0,0,0,0,0,0,0,No
+417,120155,Sophomore,LAS,,Political Science,,,,Business,,,,120161.0,,Gies,0,0,0,0,0,0,0,No
+418,120201,Freshman,LAS,,Biochemistry,,,,,Communication,,,,,Other,0,0,0,0,0,0,0,No
+419,120221,Senior,LAS,,French,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+420,120178,Junior,DGS,,Undeclared (Division of General Studies),,,,Business,,,,,120231.0,BM-NEW,0,0,0,0,0,0,0,No
+421,120151,Junior,FAA,,Architecture,,,,,,,,120151.0,120231.0,Other,0,0,0,0,0,0,0,No
+422,120201,Freshman,LAS,,Statistics,,,,Business,Statistics,,,,120231.0,Other,0,1,0,0,0,0,0,Yes
+423,120161,Sophomore,BUS,,Business Analytics,,,,Business,Statistics,,,,,Other,0,0,0,0,1,0,0,Yes
+424,120151,Sophomore,LAW,,Law (Undergrad Non-Degree/Pre-Law),,,,Business,,,,120161.0,,BM-NEW,0,0,0,0,0,0,0,No
+425,120221,Freshman,MEDIA,,Media & Cinema Studies,,,,,,,,120178.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+426,120155,Senior,GCOE,,Bioengineering,,,,,,,,120201.0,120231.0,Other,0,0,0,0,0,0,0,No
+427,120221,Senior,SSW,,Social Work,,,,Business,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+428,120201,Sophomore,GCOE,,CS+Astronomy,,,,,,,,,,Gies,0,0,0,0,0,0,0,No
+429,120201,Sophomore,LAS,,East Asian Languages & Cultures,,,,Business,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+430,120155,Sophomore,BUS,,Operations Management,,,,,,,,120151.0,,Gies,0,1,1,0,0,1,0,Yes
+431,120201,Junior,iSchool,,Information Sciences,,,,Business,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+432,120178,Freshman,GCOE,,Bioengineering,,,,Business,Communication,,,120178.0,120161.0,Other,0,0,0,0,0,0,0,No
+433,120221,Freshman,LAS,,Physics,,,,,Leadership Studies,,,120221.0,120201.0,BM-NEW,0,0,0,0,0,0,0,No
+434,120231,Junior,DGS,,Undeclared (Division of General Studies),,,,Business,Communication,,,,,Gies,0,1,0,0,1,0,0,Yes
+435,120231,Sophomore,LAW,,Law (Undergrad Non-Degree/Pre-Law),,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+436,120231,Sophomore,GCOE,,Chemical Engineering,,,,Business,,,,120221.0,120201.0,Other,0,0,0,0,0,0,0,No
+437,120151,Junior,BUS,,Marketing,,,,,,,,,,BM-RETURNING,0,1,0,0,0,0,0,Yes
+438,120178,Junior,FAA,,Architecture,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+439,120231,Sophomore,ACES,,Animal Sciences,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+440,120221,Junior,CIMED,,Medicine (Premed/Undergrad),,,,,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+441,120155,Senior,ACES,,Animal Sciences,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+442,120228,Freshman,SSW,,Social Work,,,,,Leadership Studies,,,120221.0,,BM-RETURNING,0,0,0,0,0,1,0,Yes
+443,120178,Freshman,BUS,,Supply Chain Management,,,,Business,Statistics,,,120151.0,120161.0,BM-NEW,0,0,0,0,1,0,0,Yes
+444,120221,Junior,iSchool,,Information Sciences + X,,,,Business,,,,,,Gies,0,0,0,0,0,0,0,No
+445,120161,Senior,GCOE,,Engineering Mechanics,,,,Business,Communication,,,120221.0,,Other,0,0,0,0,0,0,0,No
+446,120201,Freshman,CIMED,,Medicine (Premed/Undergrad),,,,Business,Statistics,,,120201.0,120161.0,Other,0,0,0,0,0,0,0,No
+447,120155,Freshman,BUS,,Information Systems,,,,,,,,,,Other,1,0,0,0,1,0,0,Yes
+448,120178,Freshman,LAS,,Classics,,,,,,,,,,Gies,0,0,0,0,0,0,0,No
+449,120155,Junior,LAS,,Astronomy,,,,Business,,,,,120201.0,BM-NEW,0,0,0,0,0,0,1,No
+450,120201,Senior,LAS,,Physics,,,,,,,,,120231.0,BM-NEW,0,0,0,0,0,0,0,No
+451,120228,Freshman,LAS,,French,,,,Business,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+452,120201,Sophomore,LAS,,Anthropology,,,,,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+453,120151,Freshman,EDUC,,Elementary Education,,,,,Communication,,,120201.0,,Other,0,0,0,0,0,0,0,No
+454,120161,Junior,DGS,,Undeclared (Division of General Studies),,,,Business,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+455,120231,Junior,BUS,,Supply Chain Management,,,,,,,,,120201.0,BM-RETURNING,0,0,0,1,0,0,0,Yes
+456,120228,Junior,EDUC,,Learning & Education Studies,,,,,,,,,120201.0,BM-NEW,0,0,0,0,0,1,0,Yes
+457,120155,Junior,GCOE,,CS+Geography & GIS,,,,,Leadership Studies,,,,,Other,0,0,0,0,0,0,0,No
+458,120151,Sophomore,LAS,,Geology,,,,,Informatics,,,,,Other,0,0,0,0,0,0,0,No
+459,120161,Senior,GCOE,,Environmental Engineering,,,,,,,,120161.0,120161.0,BM-RETURNING,0,0,0,0,0,0,0,No
+460,120161,Freshman,DGS,,Undeclared (Division of General Studies),,,,,,,,,,Other,0,0,0,0,0,0,0,No
+461,120221,Senior,GCOE,,CS+Chemistry,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+462,120161,Freshman,GCOE,,CS+Astronomy,,,,Business,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+463,120201,Freshman,ACES,,Agri-Accounting,,,,,Informatics,,,120221.0,120201.0,Gies,0,0,0,0,0,0,0,No
+464,120155,Freshman,BUS,,Supply Chain Management,,,,Business,,,,,120201.0,Other,0,1,0,0,0,0,0,Yes
+465,120221,Senior,GCOE,,Environmental Engineering,,,,,,,,120161.0,120161.0,BM-NEW,0,0,0,0,0,0,0,No
+466,120221,Sophomore,SSW,,Social Work,,,,,,,,120161.0,120201.0,Other,0,0,0,0,0,0,0,No
+467,120231,Junior,GRAD,,Graduate Studies,,,,Business,Informatics,,,120221.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+468,120178,Sophomore,SSW,,Social Work,,,,,,,,,120231.0,BM-NEW,0,0,0,0,0,0,0,No
+469,120161,Freshman,LAS,,Religion,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+470,120201,Freshman,LAS,,Psychology,,,,,Communication,,,,,BM-RETURNING,0,1,0,0,0,0,0,Yes
+471,120155,Sophomore,FAA,,Art Education,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+472,120221,Sophomore,LAS,,Creative Writing,,,,,,,,120151.0,,Gies,0,0,0,1,0,0,0,Yes
+473,120151,Junior,BUS,,Marketing,,,,,,,,,,BM-NEW,0,0,0,1,0,0,0,Yes
+474,120228,Senior,LAS,,Italian,,,,,,,,120201.0,120201.0,Gies,0,0,0,0,0,0,0,No
+475,120161,Junior,FAA,,Music,,,,,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+476,120155,Senior,LAS,,Religion,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+477,120151,Junior,LAS,,French,,,,Business,,,,120161.0,,BM-RETURNING,0,0,0,1,0,0,0,Yes
+478,120221,Senior,GCOE,,CS+Economics,,,,,,,,120178.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+479,120231,Sophomore,GCOE,,"Nuclear, Plasma & Radiological Eng",,,,Business,,,,120178.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+480,120231,Junior,LAS,,Classics,,,,Business,Informatics,,,,,Other,0,0,0,0,0,0,0,No
+481,120228,Junior,MEDIA,,Advertising,,,,Business,,,,,,Gies,0,0,0,0,0,0,0,No
+482,120231,Senior,GCOE,,Chemical Engineering,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+483,120151,Junior,GCOE,,CS+Linguistics,,,,,Informatics,,,,120201.0,Other,0,0,0,0,0,0,0,No
+484,120221,Freshman,LAS,,Italian,,,,Business,Leadership Studies,,,120151.0,,Other,0,0,0,0,0,0,0,No
+485,120155,Sophomore,BUS,,Marketing,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+486,120228,Freshman,MEDIA,,Advertising,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+487,120231,Freshman,DGS,,Undeclared (Division of General Studies),,,,,,,,120151.0,120201.0,Other,0,0,0,0,0,0,0,No
+488,120151,Sophomore,BUS,,Marketing,,,,,,,,120151.0,,Other,0,1,0,0,0,0,0,Yes
+489,120228,Freshman,LAS,,Spanish,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+490,120221,Sophomore,BUS,,Operations Management,,,,Business,,,,,120231.0,BM-RETURNING,0,0,0,0,1,0,0,Yes
+491,120151,Junior,BUS,,Business Analytics,,,,,,,,,,Gies,0,1,0,0,0,0,0,Yes
+492,120201,Freshman,DGS,,Undeclared (Division of General Studies),,,,Business,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+493,120228,Sophomore,DGS,,Undeclared (Division of General Studies),,,,,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+494,120201,Junior,GCOE,,Agricultural & Biological Engineering,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+495,120231,Freshman,EDUC,,Middle Grades Education,,,,,,,,120221.0,120201.0,Other,0,0,0,0,0,1,0,Yes
+496,120221,Freshman,LAS,,Physics,,,,,Informatics,,,,120161.0,Gies,0,0,0,0,0,0,0,No
+497,120155,Sophomore,LAS,,History,,,,Business,,,,120201.0,,Other,0,0,0,0,0,0,0,No
+498,120151,Senior,LAS,,French,,,,Business,,,,,,Other,0,0,0,0,0,1,0,Yes
+499,120161,Freshman,ACES,,Crop Sciences,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+500,120231,Freshman,GCOE,,Engineering Mechanics,,,,,,,,120178.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+501,120201,Senior,iSchool,,Information Sciences,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+502,120231,Freshman,BUS,,Strategic Business Development,,,,,,,,120178.0,120161.0,BM-RETURNING,0,1,0,0,0,0,0,Yes
+503,120161,Senior,SSW,,Social Work,,,,,,,,120161.0,120161.0,Other,0,0,0,1,0,0,0,Yes
+504,120161,Sophomore,EDUC,,Special Education,,,,Business,,,,,120231.0,Other,0,0,0,0,0,0,0,No
+505,120201,Sophomore,LAS,,African American Studies,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+506,120231,Senior,LAS,,English,,,,,,,,120151.0,120201.0,BM-NEW,0,1,0,0,0,0,0,Yes
+507,120228,Freshman,GCOE,,CS+Crop Sciences,,,,,Leadership Studies,,,120221.0,,Other,0,0,0,0,0,0,0,No
+508,120178,Sophomore,DGS,,Undeclared (Division of General Studies),,,,,,,,120178.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+509,120228,Freshman,GCOE,,Bioengineering,,,,Business,,,,,120231.0,Other,0,0,0,0,0,0,0,No
+510,120231,Freshman,FAA,,Urban Planning,,,,Business,Communication,,,,120161.0,Other,0,0,0,0,0,0,0,No
+511,120231,Junior,EDUC,,Special Education,,,,Business,,,,120161.0,,Other,0,0,0,0,0,0,0,No
+512,120221,Freshman,DGS,,Undeclared (Division of General Studies),,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+513,120151,Freshman,GCOE,,CS+Chemistry,,,,Business,,,,120221.0,,Other,0,1,0,0,0,0,0,Yes
+514,120228,Senior,LAS,,Creative Writing,,,,,Leadership Studies,,,120178.0,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+515,120178,Junior,ACES,,Natural Resources & Environmental Sciences,,,,Business,,,,,120231.0,Other,0,0,0,0,0,0,0,No
+516,120201,Sophomore,LAS,,Communication,,,,,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+517,120228,Senior,iSchool,,Information Sciences + X,,,,Business,,,,120151.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+518,120178,Senior,LAS,,History,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+519,120228,Freshman,ACES,,Agricultural & Consumer Economics,,,,Business,Informatics,,,,,BM-NEW,0,0,0,0,0,0,0,No
+520,120221,Sophomore,BUS,,Strategic Business Development,,,,,,,,,,Other,0,0,0,1,1,0,0,Yes
+521,120161,Sophomore,FAA,,Industrial Design,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+522,120228,Freshman,GCOE,,CS+Astronomy,,,,,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+523,120178,Junior,EDUC,,Learning & Education Studies,,,,,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+524,120231,Sophomore,LAS,,German,,,,,,,,120201.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+525,120161,Graduate,EDUC,,Elementary Education,,,,,Leadership Studies,,,120201.0,,Other,0,0,0,0,0,0,0,No
+526,120228,Junior,LER,,Labor & Employment Relations,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+527,120178,Senior,LAS,,Molecular & Cellular Biology,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+528,120178,Junior,GCOE,,"Nuclear, Plasma & Radiological Eng",,,,,Informatics,,,120151.0,120231.0,Other,0,0,1,0,0,0,0,Yes
+529,120201,Junior,LAS,,Global Studies,,,,Business,,,,120161.0,,Gies,0,1,0,0,0,0,0,Yes
+530,120221,Junior,FAA,,Music,,,,Business,,,,120201.0,120201.0,Other,0,0,0,0,0,0,0,No
+531,120178,Senior,DGS,,Undeclared (Division of General Studies),,,,Business,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+532,120161,Sophomore,EDUC,,Learning & Education Studies,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+533,120178,Junior,LAS,,East Asian Languages & Cultures,,,,,,,,120151.0,120161.0,BM-RETURNING,0,0,0,0,0,0,0,No
+534,120221,Senior,GCOE,,Computer Engineering,,,,,Informatics,,,,,BM-NEW,0,0,0,0,0,0,0,No
+535,120228,Sophomore,LAW,,Law (Undergrad Non-Degree/Pre-Law),,,,Business,,,,120161.0,,Other,0,0,0,0,0,0,0,No
+536,120178,Sophomore,ACES,,Animal Sciences,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+537,120228,Senior,ACES,,Human Development & Family Studies,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+538,120178,Junior,AHS,,Interdisciplinary Health Sciences,,,,,Leadership Studies,,,,,Other,0,0,0,0,0,0,0,No
+539,120151,Sophomore,LER,,Labor & Employment Relations,,,,Business,Statistics,,,,,Gies,0,0,0,0,0,0,0,No
+540,120228,Senior,GCOE,,CS+Geography & GIS,,,,Business,,,,120161.0,,BM-NEW,0,0,0,0,0,0,0,No
+541,120201,Senior,MEDIA,,Advertising,,,,,,,,120178.0,120231.0,Other,0,0,0,0,0,0,0,No
+542,120161,Junior,DGS,,Undeclared (Division of General Studies),,,,,,,,120201.0,,BM-RETURNING,0,0,0,1,0,0,0,Yes
+543,120231,Junior,SSW,,Social Work,,,,Business,,,,120161.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+544,120201,Sophomore,LAS,,Anthropology,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+545,120161,Graduate,GCOE,,CS+Linguistics,,,,Business,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+546,120228,Junior,GCOE,,CS+Statistics,,,,Business,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+547,120161,Senior,BUS,,Business Analytics,,,,,,,,,,BM-RETURNING,0,1,0,0,0,0,0,Yes
+548,120201,Junior,BUS,,Strategic Business Development,,,,Business,Leadership Studies,,,,,Other,0,1,0,0,0,0,0,Yes
+549,120221,Freshman,DGS,,Undeclared (Division of General Studies),,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+550,120178,Freshman,ACES,,Human Development & Family Studies,,,,,Communication,,,,120201.0,BM-RETURNING,0,0,0,0,0,0,0,No
+551,120178,Senior,LAS,,Linguistics,,,,,,,,120178.0,,Other,0,0,0,0,0,0,0,No
+552,120221,Freshman,BUS,,Operations Management,,,,Business,,,,120178.0,,Gies,0,1,0,0,0,1,0,Yes
+553,120151,Senior,LAS,,Political Science,,,,,Communication,,,120221.0,120231.0,BM-NEW,0,0,0,0,0,0,0,No
+554,120155,Junior,LAS,,African American Studies,,,,Business,,,,120201.0,120161.0,Other,0,0,0,0,0,0,0,No
+555,120201,Junior,LAS,,Political Science,,,,Business,Leadership Studies,,,,,Other,0,0,0,0,0,0,0,No
+556,120228,Senior,BUS,,Supply Chain Management,,,,,,,,120201.0,120231.0,BM-RETURNING,1,1,0,1,0,0,0,Yes
+557,120221,Freshman,SSW,,Social Work,,,,,Leadership Studies,,,,120201.0,Gies,0,0,0,0,0,0,0,No
+558,120178,Freshman,GCOE,,CS+Linguistics,,,,,,,,,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+559,120178,Sophomore,AHS,,"Recreation, Sport & Tourism",,,,Business,,,,,,Other,0,0,0,0,0,1,0,Yes
+560,120161,Senior,EDUC,,Special Education,,,,Business,,,,120221.0,120201.0,Gies,0,1,0,0,0,0,0,Yes
+561,120161,Freshman,LER,,Labor & Employment Relations,,,,,,,,,,Gies,0,0,0,0,0,0,0,No
+562,120161,Sophomore,GCOE,,Industrial Engineering,,,,Business,,,,,120161.0,BM-RETURNING,0,1,0,0,0,0,0,Yes
+563,120178,Junior,GRAD,,Graduate Studies,,,,,,,,,120201.0,Gies,0,0,0,0,0,0,0,No
+564,120151,Freshman,LAS,,Mathematics,,,,,Communication,,,,120161.0,Other,0,0,0,0,0,0,0,No
+565,120161,Graduate,LAS,,Geology,,,,,Communication,,,,120161.0,BM-RETURNING,0,0,0,0,0,0,0,No
+566,120155,Sophomore,GCOE,,Industrial Engineering,,,,Business,,,,120178.0,,Other,0,1,0,0,0,0,0,Yes
+567,120201,Sophomore,BUS,,Supply Chain Management,,,,,,,,,,Other,0,1,0,0,0,0,0,Yes
+568,120221,Senior,LAS,,Actuarial Science,,,,,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+569,120161,Sophomore,LAS,,East Asian Languages & Cultures,,,,,,,,120161.0,120161.0,BM-NEW,0,0,0,0,0,0,0,No
+570,120221,Freshman,BUS,,Information Systems,,,,,Statistics,,,,120201.0,BM-NEW,0,0,0,0,0,0,0,No
+571,120178,Senior,FAA,,Art History,,,,Business,Statistics,,,,120201.0,Other,0,0,0,0,0,0,0,No
+572,120228,Sophomore,MEDIA,,Media & Cinema Studies,,,,Business,,,,,,Gies,0,0,0,0,0,0,0,No
+573,120178,Freshman,iSchool,,Information Sciences + X,,,,Business,,,,120201.0,120231.0,Other,0,0,0,0,0,0,0,No
+574,120201,Junior,SSW,,Social Work,,,,Business,,,,120201.0,120231.0,BM-NEW,0,0,0,0,0,0,0,No
+575,120151,Junior,SSW,,Social Work,,,,,,,,120178.0,120201.0,Other,0,0,0,0,0,0,0,No
+576,120201,Senior,GRAD,,Graduate Studies,,,,,,,,,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+577,120151,Senior,LAS,,Linguistics,,,,,,,,120178.0,120161.0,Gies,0,0,0,0,1,0,0,Yes
+578,120151,Freshman,EDUC,,Middle Grades Education,,,,Business,Communication,,,,120231.0,Other,0,0,0,0,0,0,0,No
+579,120178,Sophomore,iSchool,,Information Sciences + X,,,,Business,,,,,120201.0,BM-NEW,0,0,0,0,0,1,0,Yes
+580,120161,Senior,EDUC,,Learning & Education Studies,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+581,120151,Sophomore,LAS,,Statistics,,,,Business,,,,120178.0,120231.0,Other,0,0,0,0,0,0,0,No
+582,120178,Senior,LAS,,Actuarial Science,,,,Business,,,,120178.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+583,120178,Sophomore,AHS,,Speech & Hearing Science,,,,,,,,120161.0,,Other,0,0,0,0,0,0,0,No
+584,120155,Sophomore,AHS,,Speech & Hearing Science,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+585,120155,Sophomore,GCOE,,CS+Statistics,,,,,,,,,120231.0,BM-RETURNING,0,1,0,0,0,0,0,Yes
+586,120201,Freshman,LAS,,Communication,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+587,120231,Senior,FAA,,Industrial Design,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+588,120151,Senior,ACES,,Agri-Accounting,,,,,,,,,,Gies,0,0,0,0,0,0,0,No
+589,120228,Sophomore,LAS,,Arabic,,,,,,,,120221.0,120231.0,Other,0,0,0,0,0,0,0,No
+590,120201,Freshman,BUS,,Finance,,,,,Leadership Studies,,,,,Other,0,1,0,1,0,0,0,Yes
+591,120155,Freshman,AHS,,Community Health,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+592,120231,Sophomore,EDUC,,Early Childhood Education,,,,Business,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+593,120228,Junior,ACES,,Agribusiness Markets & Management,,,,Business,,,,120178.0,120201.0,BM-NEW,0,0,0,0,0,0,0,No
+594,120201,Freshman,GCOE,,Bioengineering,,,,Business,Communication,,,120161.0,,Other,0,0,0,0,1,0,0,Yes
+595,120178,Senior,BUS,,Marketing,,,,,,,,120221.0,,Gies,1,0,0,0,0,1,0,Yes
+596,120228,Sophomore,BUS,,Operations Management,,,,,Leadership Studies,,,120161.0,120231.0,Other,0,0,0,0,0,0,0,No
+597,120228,Senior,LAS,,Molecular & Cellular Biology,,,,,Statistics,,,120201.0,,Other,0,0,0,0,0,0,0,No
+598,120201,Senior,BUS,,Operations Management,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+599,120178,Senior,ACES,,Agri-Accounting,,,,Business,,,,,120161.0,BM-RETURNING,0,0,0,0,0,0,0,No
+600,120155,Sophomore,LAS,,Religion,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+601,120221,Sophomore,LAS,,History,,,,Business,Statistics,,,120221.0,120231.0,Other,0,0,0,0,0,0,0,No
+602,120151,Sophomore,LAS,,Global Studies,,,,,,,,120201.0,,Other,0,0,0,1,0,0,0,Yes
+603,120155,Senior,GCOE,,CS+Economics,,,,Business,,,,,,Other,0,0,0,1,0,0,0,Yes
+604,120228,Freshman,iSchool,,Information Sciences + X,,,,,,,,,,Gies,0,0,1,0,0,0,0,Yes
+605,120228,Junior,LAS,,Creative Writing,,,,,Communication,,,120178.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+606,120201,Senior,BUS,,Supply Chain Management,,,,,,,,,,Other,0,1,1,0,0,0,0,Yes
+607,120231,Junior,CIMED,,Medicine (Premed/Undergrad),,,,Business,Leadership Studies,,,120161.0,,BM-NEW,0,0,0,0,0,1,0,Yes
+608,120178,Junior,DGS,,Undeclared (Division of General Studies),,,,,Statistics,,,,,Other,0,0,0,1,0,0,0,Yes
+609,120161,Graduate,EDUC,,Middle Grades Education,,,,Business,,,,120201.0,,Other,0,0,0,0,0,0,0,No
+610,120155,Junior,AHS,,"Recreation, Sport & Tourism",,,,,,,,,,Other,0,0,0,0,0,0,0,No
+611,120228,Senior,ACES,,Food Science & Human Nutrition,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+612,120161,Sophomore,LAS,,Geography & GIS,,,,Business,,,,,120161.0,Gies,0,0,0,0,0,0,0,No
+613,120151,Junior,BUS,,Information Systems,,,,,,,,120178.0,,Other,0,1,0,0,0,1,0,Yes
+614,120228,Freshman,EDUC,,Learning & Education Studies,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+615,120201,Junior,ACES,,Agricultural & Consumer Economics,,,,Business,,,,120201.0,,Other,0,0,0,0,0,0,0,No
+616,120221,Senior,DGS,,Undeclared (Division of General Studies),,,,,Statistics,,,120201.0,,Other,0,0,0,0,0,0,0,No
+617,120155,Junior,LAS,,"Russian, E European & Eurasian Studies",,,,,Communication,,,,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+618,120155,Junior,LAS,,East Asian Languages & Cultures,,,,,Statistics,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+619,120161,Senior,LAS,,History,,,,Business,Statistics,,,,120201.0,Other,0,0,0,0,0,0,0,No
+620,120161,Freshman,LAS,,Mathematics,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+621,120151,Graduate,DGS,,Undeclared (Division of General Studies),,,,Business,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+622,120161,Sophomore,BUS,,Operations Management,,,,,,,,120178.0,,Other,0,0,0,0,0,0,0,No
+623,120228,Sophomore,GRAD,,Graduate Studies,,,,Business,,,,120161.0,120201.0,Other,0,1,0,0,0,0,0,Yes
+624,120231,Sophomore,LAS,,"Earth, Society & Environmental Sustainability",,,,Business,,,,,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+625,120155,Senior,LAS,,Geography & GIS,,,,,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+626,120178,Junior,LAS,,Chemistry,,,,Business,,,,120201.0,,Other,0,0,0,0,0,0,0,No
+627,120231,Junior,MEDIA,,Media & Cinema Studies,,,,,,,,120221.0,120201.0,BM-RETURNING,0,0,0,0,0,0,0,No
+628,120201,Freshman,BUS,,Accountancy,,,,Business,,,,,,Other,1,0,1,0,0,0,0,Yes
+629,120231,Graduate,LAS,,Creative Writing,,,,,,,,,,Other,0,0,1,0,0,0,0,Yes
+630,120231,Junior,GCOE,,Chemical Engineering,,,,Business,,,,120178.0,,Gies,0,0,0,0,0,0,0,No
+631,120231,Sophomore,BUS,,Marketing,,,,,,,,120151.0,120231.0,Other,0,1,0,0,0,0,0,Yes
+632,120221,Senior,ACES,,Agri-Accounting,,,,Business,,,,120151.0,120161.0,Other,0,1,0,0,0,0,0,Yes
+633,120178,Junior,AHS,,Community Health,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+634,120221,Freshman,ACES,,Crop Sciences,,,,Business,Communication,,,120151.0,,Other,0,0,0,0,0,0,0,No
+635,120178,Sophomore,LAS,,Global Studies,,,,Business,,,,120151.0,120201.0,BM-NEW,0,0,0,0,0,0,0,No
+636,120178,Junior,ACES,,Crop Sciences,,,,,Communication,,,120161.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+637,120178,Freshman,LAS,,Communication,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+638,120221,Senior,ACES,,Natural Resources & Environmental Sciences,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+639,120221,Sophomore,AHS,,"Recreation, Sport & Tourism",,,,,,,,,120231.0,Other,0,0,0,0,0,0,0,No
+640,120221,Freshman,GRAD,,Graduate Studies,,,,,,,,120178.0,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+641,120151,Sophomore,GCOE,,Engineering Mechanics,,,,Business,,,,,120231.0,Gies,0,0,0,0,0,0,0,No
+642,120201,Freshman,iSchool,,Information Sciences + X,,,,Business,,,,120151.0,,Gies,0,0,0,0,0,0,0,No
+643,120151,Sophomore,LAS,,Astronomy,,,,Business,,,,120161.0,,Other,0,0,0,0,0,0,0,No
+644,120151,Freshman,FAA,,Art Education,,,,Business,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+645,120228,Freshman,GCOE,,Agricultural & Biological Engineering,,,,Business,,,,120201.0,120201.0,BM-RETURNING,0,0,0,0,0,0,0,No
+646,120221,Freshman,ACES,,Natural Resources & Environmental Sciences,,,,,,,,120151.0,,BM-NEW,0,0,0,0,0,0,0,No
+647,120161,Sophomore,LAS,,Sociology,,,,Business,,,,,120201.0,Other,0,0,0,0,1,0,0,Yes
+648,120221,Freshman,BUS,,Information Systems,,,,,Leadership Studies,,,,,Other,1,0,0,0,0,0,0,Yes
+649,120161,Senior,LAS,,Physics,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+650,120161,Junior,LAS,,Linguistics,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+651,120201,Freshman,GRAD,,Graduate Studies,,,,,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+652,120228,Junior,EDUC,,Early Childhood Education,,,,,Communication,,,120151.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+653,120221,Senior,GCOE,,Chemical Engineering,,,,Business,,,,,120231.0,BM-RETURNING,0,0,0,0,0,0,1,No
+654,120151,Sophomore,GCOE,,Computer Engineering,,,,,,,,120161.0,,Other,0,0,0,0,0,0,0,No
+655,120201,Junior,GCOE,,Computer Engineering,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+656,120161,Freshman,AHS,,"Recreation, Sport & Tourism",,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+657,120221,Freshman,ACES,,Crop Sciences,,,,,,,,120161.0,120201.0,Gies,0,0,0,0,0,0,0,No
+658,120151,Junior,BUS,,Business Analytics,,,,,,,,120178.0,,BM-NEW,0,0,0,0,0,0,0,No
+659,120151,Freshman,VetMed,,Veterinary Medicine (Preveterinary/Undergrad),,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+660,120201,Freshman,LAS,,Political Science,,,,,,,,120201.0,,BM-NEW,0,0,0,0,1,0,0,Yes
+661,120231,Graduate,LAS,,Psychology,,,,,,,,,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+662,120151,Senior,BUS,,Accountancy,,,,,,,,120221.0,,Other,0,0,1,0,1,1,0,Yes
+663,120228,Sophomore,iSchool,,Information Sciences,,,,,,,,,120161.0,Gies,0,0,0,0,0,0,0,No
+664,120228,Sophomore,FAA,,Theatre,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+665,120228,Senior,LAS,,French,,,,Business,Leadership Studies,,,,,BM-NEW,0,0,0,0,0,0,0,No
+666,120231,Freshman,LAS,,Global Studies,,,,Business,,,,120221.0,,Gies,1,0,0,1,0,0,0,Yes
+667,120201,Freshman,GCOE,,Mechanical Engineering,,,,Business,,,,120178.0,120161.0,BM-RETURNING,0,0,0,0,0,0,0,No
+668,120228,Senior,EDUC,,Middle Grades Education,,,,Business,Communication,,,120178.0,120231.0,Other,0,0,0,0,0,0,0,No
+669,120228,Sophomore,FAA,,Art History,,,,,,,,120161.0,120161.0,BM-RETURNING,0,0,0,0,0,0,0,No
+670,120161,Freshman,BUS,,Finance,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+671,120231,Sophomore,GCOE,,Industrial Engineering,,,,Business,,,,120221.0,,Gies,0,0,0,0,0,0,0,No
+672,120201,Junior,LAS,,East Asian Languages & Cultures,,,,Business,,,,120151.0,,BM-RETURNING,0,0,0,0,0,1,0,Yes
+673,120228,Sophomore,BUS,,Supply Chain Management,,,,,,,,,120201.0,Other,1,1,0,0,1,1,0,Yes
+674,120151,Sophomore,GCOE,,Computer Engineering,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+675,120221,Sophomore,LAS,,Creative Writing,,,,Business,,,,,120161.0,BM-NEW,0,0,0,0,0,0,0,No
+676,120221,Sophomore,GCOE,,Electrical Engineering,,,,Business,,,,120161.0,,Gies,0,1,0,0,0,0,0,Yes
+677,120178,Senior,ACES,,Human Development & Family Studies,,,,,Informatics,,,,,Other,0,0,0,0,0,0,0,No
+678,120151,Sophomore,DGS,,Undeclared (Division of General Studies),,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+679,120231,Senior,BUS,,Supply Chain Management,,,,Business,,,,120201.0,,Other,0,0,0,0,0,0,0,No
+680,120178,Sophomore,GCOE,,Chemical Engineering,,,,Business,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+681,120155,Freshman,MEDIA,,Journalism,,,,,,,,,,Gies,0,0,1,0,0,0,0,Yes
+682,120178,Freshman,GCOE,,Aerospace Engineering,,,,,,,,120151.0,120161.0,Gies,0,0,0,0,0,0,0,No
+683,120221,Freshman,BUS,,Marketing,,,,,,,,120221.0,,BM-RETURNING,0,1,0,1,0,0,0,Yes
+684,120231,Senior,LAS,,Spanish,,,,,Leadership Studies,,,120161.0,120161.0,BM-NEW,0,0,0,0,0,0,0,No
+685,120201,Senior,LAS,,Linguistics,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+686,120151,Sophomore,ACES,,Human Development & Family Studies,,,,,,,,120161.0,,Other,0,0,1,0,0,0,0,Yes
+687,120228,Junior,FAA,,Art History,,,,Business,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+688,120228,Senior,LAS,,Biology,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+689,120178,Sophomore,DGS,,Undeclared (Division of General Studies),,,,Business,,,,120221.0,,Gies,0,0,0,0,0,0,0,No
+690,120221,Senior,BUS,,Marketing,,,,,,,,120221.0,,BM-RETURNING,1,0,0,0,1,1,0,Yes
+691,120201,Sophomore,LAS,,English,,,,,,,,120161.0,,Other,1,0,0,0,0,0,0,Yes
+692,120151,Senior,ACES,,Animal Sciences,,,,Business,,,,120201.0,,Other,0,0,0,0,0,0,0,No
+693,120151,Freshman,BUS,,Finance,,,,,,,,120201.0,,Other,0,0,0,0,0,0,0,No
+694,120228,Sophomore,LAS,,Political Science,,,,,,,,120151.0,120201.0,BM-NEW,0,0,0,0,0,0,0,No
+695,120178,Junior,AHS,,"Recreation, Sport & Tourism",,,,Business,Communication,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+696,120201,Sophomore,CIMED,,Medicine (Premed/Undergrad),,,,Business,Informatics,,,,120161.0,Other,0,0,0,0,0,0,0,No
+697,120151,Freshman,BUS,,Finance,,,,Business,,,,,120201.0,Other,0,1,0,0,0,0,0,Yes
+698,120228,Senior,GCOE,,CS+Crop Sciences,,,,,,,,120178.0,,Other,0,0,0,0,0,0,0,No
+699,120231,Freshman,AHS,,Kinesiology,,,,Business,Leadership Studies,,,120178.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+700,120228,Freshman,MEDIA,,Media & Cinema Studies,,,,Business,Informatics,,,,,Gies,0,0,0,0,0,0,0,No
+701,120151,Junior,GCOE,,Engineering Mechanics,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+702,120155,Junior,LAS,,Biochemistry,,,,,,,,120201.0,120161.0,Other,0,0,0,0,0,0,0,No
+703,120231,Sophomore,ACES,,Natural Resources & Environmental Sciences,,,,,Leadership Studies,,,,,Other,0,0,0,0,0,0,0,No
+704,120161,Senior,LER,,Labor & Employment Relations,,,,,,,,120161.0,120201.0,Other,0,1,0,0,0,0,0,Yes
+705,120151,Senior,LAS,,Philosophy,,,,,Informatics,,,120201.0,,Gies,0,0,0,0,0,0,0,No
+706,120231,Sophomore,LAS,,Political Science,,,,Business,,,,120201.0,,Other,0,0,0,0,0,0,0,No
+707,120221,Freshman,GCOE,,Bioengineering,,,,Business,,,,,,Other,0,0,0,0,0,1,0,Yes
+708,120178,Senior,LAS,,Molecular & Cellular Biology,,,,,,,,120221.0,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+709,120231,Senior,GCOE,,CS+Geography & GIS,,,,Business,Leadership Studies,,,,,Other,0,0,0,0,0,0,0,No
+710,120178,Freshman,LAS,,Italian,,,,Business,,,,120161.0,120231.0,Other,0,0,0,0,0,0,0,No
+711,120201,Graduate,LAS,,Biology,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+712,120221,Senior,DGS,,Undeclared (Division of General Studies),,,,,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+713,120178,Sophomore,LAS,,German,,,,,Statistics,,,,,Other,0,0,0,0,0,0,0,No
+714,120221,Senior,LAS,,Molecular & Cellular Biology,,,,Business,,,,120178.0,,Other,0,0,0,0,0,0,0,No
+715,120161,Freshman,GRAD,,Graduate Studies,,,,,Communication,,,,,Gies,0,0,0,0,0,0,0,No
+716,120178,Senior,LAS,,Religion,,,,Business,Leadership Studies,,,,120201.0,Other,0,0,0,0,0,0,0,No
+717,120201,Freshman,GCOE,,CS+Crop Sciences,,,,,,,,120221.0,120161.0,Gies,0,0,0,0,0,0,0,No
+718,120231,Senior,VetMed,,Veterinary Medicine (Preveterinary/Undergrad),,,,,,,,120178.0,,Other,0,0,0,0,0,0,0,No
+719,120161,Senior,BUS,,Marketing,,,,,,,,120178.0,120201.0,Other,0,0,1,0,0,0,0,Yes
+720,120178,Sophomore,LAS,,East Asian Languages & Cultures,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+721,120228,Freshman,EDUC,,Elementary Education,,,,,,,,120201.0,,BM-NEW,0,0,0,0,0,0,0,No
+722,120161,Sophomore,FAA,,Art Education,,,,,,,,120161.0,,Other,0,0,0,0,0,0,0,No
+723,120228,Senior,GCOE,,CS+Geography & GIS,,,,Business,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+724,120155,Graduate,BUS,,Information Systems,,,,,,,,,,Other,0,1,0,0,1,1,0,Yes
+725,120231,Graduate,FAA,,Theatre,,,,,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+726,120161,Sophomore,BUS,,Operations Management,,,,Business,Communication,,,,,BM-NEW,0,0,0,0,0,0,0,No
+727,120231,Freshman,ACES,,Natural Resources & Environmental Sciences,,,,Business,,,,120178.0,,Other,0,0,0,0,0,0,0,No
+728,120161,Graduate,GCOE,,CS+Philosophy,,,,,,,,120201.0,120231.0,Other,0,0,0,0,0,0,0,No
+729,120151,Sophomore,EDUC,,Learning & Education Studies,,,,,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+730,120155,Sophomore,LAS,,Classics,,,,,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+731,120161,Junior,GCOE,,Industrial Engineering,,,,,,,,120161.0,,BM-NEW,0,1,0,1,0,0,0,Yes
+732,120221,Senior,FAA,,Music Composition,,,,,,,,,,Gies,0,0,0,0,0,0,0,No
+733,120178,Sophomore,BUS,,Supply Chain Management,,,,Business,,,,120201.0,120201.0,Other,0,1,0,1,0,0,0,Yes
+734,120201,Freshman,EDUC,,Elementary Education,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+735,120221,Graduate,LAS,,Spanish,,,,,,,,120161.0,120231.0,Other,0,0,0,0,0,0,0,No
+736,120178,Junior,DGS,,Undeclared (Division of General Studies),,,,,Communication,,,120221.0,,Other,0,0,0,0,0,0,0,No
+737,120231,Junior,LAS,,Geography & GIS,,,,,Informatics,,,,120201.0,Other,0,0,1,0,0,0,0,Yes
+738,120151,Freshman,LAS,,Biology,,,,,,,,120151.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+739,120161,Freshman,iSchool,,Information Sciences + X,,,,,,,,120201.0,,BM-NEW,0,0,0,0,0,0,0,No
+740,120228,Senior,ACES,,Food Science & Human Nutrition,,,,,,,,120178.0,,Other,0,0,0,0,0,1,0,Yes
+741,120151,Sophomore,LAS,,Arabic,,,,,Communication,,,,,Other,0,0,0,0,0,0,0,No
+742,120201,Sophomore,LAS,,Political Science,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+743,120161,Sophomore,GCOE,,Civil Engineering,,,,,,,,,120201.0,BM-NEW,0,0,0,0,0,0,0,No
+744,120161,Senior,BUS,,Finance,,,,,Statistics,,,120201.0,,BM-RETURNING,0,0,0,0,1,0,0,Yes
+745,120201,Sophomore,FAA,,Architectural Studies,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+746,120161,Sophomore,DGS,,Undeclared (Division of General Studies),,,,,Leadership Studies,,,,120161.0,Other,0,0,0,0,0,0,0,No
+747,120155,Freshman,GCOE,,Environmental Engineering,,,,Business,Leadership Studies,,,120178.0,,Other,0,0,0,0,0,0,0,No
+748,120178,Freshman,FAA,,Landscape Architecture,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+749,120178,Freshman,LAS,,East Asian Languages & Cultures,,,,,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+750,120228,Junior,MEDIA,,Journalism,,,,,Communication,,,,120201.0,Other,0,0,0,0,1,0,0,Yes
+751,120178,Freshman,LAS,,Linguistics,,,,,Statistics,,,120151.0,,BM-NEW,0,0,0,0,0,0,0,No
+752,120161,Sophomore,BUS,,Accountancy,,,,Business,,,,120221.0,,Other,1,0,1,0,0,0,0,Yes
+753,120201,Junior,LAS,,Molecular & Cellular Biology,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+754,120178,Senior,AHS,,Interdisciplinary Health Sciences,,,,,Communication,,,,120201.0,BM-NEW,0,0,0,0,0,0,0,No
+755,120231,Freshman,GRAD,,Graduate Studies,,,,Business,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+756,120151,Sophomore,ACES,,Food Science & Human Nutrition,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+757,120231,Sophomore,GRAD,,Graduate Studies,,,,Business,Leadership Studies,,,,120161.0,Other,0,0,0,0,0,0,0,No
+758,120228,Senior,LER,,Labor & Employment Relations,,,,,Communication,,,120151.0,,BM-NEW,0,0,0,0,0,0,0,No
+759,120151,Sophomore,DGS,,Undeclared (Division of General Studies),,,,,Leadership Studies,,,,,Other,0,0,0,0,0,0,0,No
+760,120178,Graduate,LAS,,Global Studies,,,,Business,,,,,,Other,1,0,0,0,0,0,0,Yes
+761,120178,Senior,GCOE,,Materials Science & Engineering,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+762,120161,Senior,BUS,,Accountancy,,,,,,,,120201.0,,BM-NEW,0,0,0,0,1,1,0,Yes
+763,120151,Senior,LAS,,Italian,,,,Business,Informatics,,,120221.0,120161.0,Other,0,0,0,0,0,0,0,No
+764,120221,Junior,BUS,,Finance,,,,Business,,,,,,BM-NEW,0,1,0,0,1,0,0,Yes
+765,120231,Junior,GRAD,,Graduate Studies,,,,Business,,,,120178.0,,BM-NEW,0,0,0,0,0,0,0,No
+766,120221,Freshman,iSchool,,Information Sciences,,,,Business,,,,120201.0,120201.0,Other,0,0,0,0,0,0,0,No
+767,120161,Junior,ACES,,Human Development & Family Studies,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+768,120161,Junior,ACES,,Food Science & Human Nutrition,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+769,120231,Freshman,LAS,,Classics,,,,Business,,,,,120201.0,BM-NEW,0,0,0,0,0,0,0,No
+770,120151,Senior,GCOE,,CS+Geography & GIS,,,,,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+771,120151,Sophomore,LAS,,Creative Writing,,,,Business,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+772,120155,Sophomore,GCOE,,Civil Engineering,,,,Business,Leadership Studies,,,120178.0,120201.0,Other,0,0,0,0,0,0,0,No
+773,120221,Freshman,GCOE,,Mechanical Engineering,,,,Business,,,,120201.0,120201.0,Other,0,0,0,0,0,0,0,No
+774,120201,Sophomore,LAS,,Political Science,,,,,,,,120161.0,,Other,0,0,0,0,0,0,0,No
+775,120155,Freshman,DGS,,Undeclared (Division of General Studies),,,,Business,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+776,120201,Freshman,DGS,,Undeclared (Division of General Studies),,,,,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+777,120201,Freshman,EDUC,,Learning & Education Studies,,,,,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+778,120151,Junior,SSW,,Social Work,,,,Business,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+779,120201,Junior,MEDIA,,Media & Cinema Studies,,,,Business,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+780,120221,Junior,GCOE,,"Nuclear, Plasma & Radiological Eng",,,,,Communication,,,120178.0,,Other,0,0,0,0,0,0,0,No
+781,120178,Senior,EDUC,,Elementary Education,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+782,120155,Senior,DGS,,Undeclared (Division of General Studies),,,,,Communication,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+783,120151,Sophomore,GCOE,,CS+Chemistry,,,,Business,,,,120161.0,,Other,0,0,0,0,0,0,0,No
+784,120231,Freshman,FAA,,Landscape Architecture,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+785,120155,Junior,LAS,,Biochemistry,,,,,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+786,120221,Freshman,LAS,,History,,,,Business,,,,120161.0,120231.0,Other,0,0,0,0,0,0,0,No
+787,120178,Graduate,BUS,,Information Systems,,,,Business,,,,120178.0,,Other,1,1,0,0,0,0,0,Yes
+788,120155,Junior,LAS,,English,,,,Business,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+789,120221,Freshman,GCOE,,CS+Philosophy,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+790,120228,Senior,BUS,,Supply Chain Management,,,,,Communication,,,,120231.0,BM-NEW,0,0,0,0,1,0,0,Yes
+791,120231,Junior,LAS,,African American Studies,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+792,120178,Junior,ACES,,Crop Sciences,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+793,120231,Senior,BUS,,Operations Management,,,,Business,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+794,120151,Junior,BUS,,Business Analytics,,,,,,,,120151.0,120201.0,Other,0,1,0,0,1,0,0,Yes
+795,120221,Junior,GCOE,,Computer Engineering,,,,,Communication,,,,120161.0,BM-RETURNING,0,0,0,0,0,1,0,Yes
+796,120201,Freshman,GCOE,,Aerospace Engineering,,,,,Statistics,,,,,Other,0,0,0,0,0,0,0,No
+797,120231,Sophomore,EDUC,,Early Childhood Education,,,,,,,,,,BM-RETURNING,0,0,0,0,1,0,0,Yes
+798,120178,Freshman,BUS,,Operations Management,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+799,120228,Junior,ACES,,Agri-Accounting,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+800,120221,Sophomore,BUS,,Business Analytics,,,,Business,Communication,,,,,Other,0,0,0,1,0,0,0,Yes
+801,120155,Senior,BUS,,Operations Management,,,,,,,,120178.0,120201.0,Gies,0,1,0,1,0,1,0,Yes
+802,120178,Freshman,LAS,,Linguistics,,,,,Informatics,,,,120161.0,Other,0,0,0,0,0,0,0,No
+803,120201,Junior,BUS,,Strategic Business Development,,,,,,,,,120231.0,Other,0,0,1,0,1,0,0,Yes
+804,120201,Freshman,CIMED,,Medicine (Premed/Undergrad),,,,Business,Leadership Studies,,,120161.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+805,120155,Freshman,iSchool,,Information Sciences + X,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+806,120231,Freshman,ACES,,Agri-Accounting,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+807,120231,Freshman,ACES,,Agricultural & Consumer Economics,,,,,,,,,,Other,0,0,0,0,0,1,0,Yes
+808,120161,Senior,GCOE,,CS+Geography & GIS,,,,,,,,,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+809,120201,Junior,MEDIA,,Advertising,,,,Business,,,,,120201.0,Gies,0,0,0,0,0,0,0,No
+810,120151,Junior,LAS,,Psychology,,,,Business,,,,,120201.0,Other,0,0,0,0,0,0,1,No
+811,120231,Freshman,DGS,,Undeclared (Division of General Studies),,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+812,120178,Senior,MEDIA,,Media & Cinema Studies,,,,Business,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+813,120151,Sophomore,EDUC,,Special Education,,,,,,,,,,Gies,0,0,1,0,0,0,0,Yes
+814,120228,Junior,BUS,,Operations Management,,,,Business,Leadership Studies,,,,,BM-NEW,0,0,0,0,0,0,0,No
+815,120161,Junior,DGS,,Undeclared (Division of General Studies),,,,Business,Leadership Studies,,,120201.0,120231.0,Other,0,0,0,0,0,0,0,No
+816,120161,Freshman,BUS,,Marketing,,,,Business,Communication,,,,,Other,0,0,1,0,0,1,0,Yes
+817,120231,Senior,BUS,,Marketing,,,,,Communication,,,120178.0,120201.0,BM-RETURNING,0,0,0,0,0,0,0,No
+818,120155,Sophomore,GCOE,,Aerospace Engineering,,,,,Leadership Studies,,,,120231.0,BM-NEW,0,0,0,0,0,0,0,No
+819,120221,Junior,ACES,,Food Science & Human Nutrition,,,,Business,Leadership Studies,,,120161.0,,Other,0,0,0,0,0,0,0,No
+820,120155,Sophomore,EDUC,,Elementary Education,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+821,120221,Sophomore,LER,,Labor & Employment Relations,,,,,Communication,,,,,Other,0,0,0,0,0,0,0,No
+822,120161,Senior,LAS,,History,,,,Business,,,,120161.0,,Other,0,0,0,0,0,0,0,No
+823,120151,Junior,MEDIA,,Journalism,,,,,Informatics,,,120161.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+824,120178,Freshman,GRAD,,Graduate Studies,,,,Business,Informatics,,,,120161.0,Other,0,0,0,0,0,0,0,No
+825,120155,Junior,ACES,,Crop Sciences,,,,,Leadership Studies,,,,120231.0,Gies,0,0,0,0,0,0,0,No
+826,120231,Graduate,LAW,,Law (Undergrad Non-Degree/Pre-Law),,,,,Informatics,,,,,Other,0,0,0,0,0,0,0,No
+827,120178,Sophomore,FAA,,Architectural Studies,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+828,120228,Sophomore,GCOE,,CS+Astronomy,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+829,120201,Freshman,EDUC,,Special Education,,,,Business,,,,,120201.0,BM-RETURNING,0,0,0,0,0,0,0,No
+830,120178,Senior,GCOE,,CS+Statistics,,,,,,,,,120201.0,BM-RETURNING,0,0,0,0,0,0,0,No
+831,120155,Freshman,BUS,,Accountancy,,,,,Leadership Studies,,,,120201.0,BM-RETURNING,0,1,0,1,0,0,0,Yes
+832,120161,Junior,LAS,,Chemistry,,,,Business,,,,120201.0,,Gies,1,0,0,0,0,0,0,Yes
+833,120201,Senior,DGS,,Undeclared (Division of General Studies),,,,,,,,120151.0,120161.0,Gies,0,0,0,0,0,0,1,No
+834,120151,Freshman,DGS,,Undeclared (Division of General Studies),,,,Business,Leadership Studies,,,,120161.0,BM-RETURNING,0,0,0,0,0,0,0,No
+835,120221,Senior,SSW,,Social Work,,,,,,,,120178.0,,Other,0,0,0,0,0,0,0,No
+836,120231,Junior,LAS,,African American Studies,,,,,,,,120161.0,120201.0,Other,0,0,0,0,0,0,0,No
+837,120231,Senior,LAS,,Neuroscience,,,,,,,,120151.0,120231.0,Other,0,0,0,0,0,0,0,No
+838,120221,Senior,GCOE,,CS+Geography & GIS,,,,Business,,,,120178.0,,Other,0,0,0,0,0,0,0,No
+839,120231,Freshman,ACES,,Animal Sciences,,,,,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+840,120231,Senior,LAS,,Actuarial Science,,,,,,,,,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+841,120228,Junior,LAS,,Statistics,,,,Business,Informatics,,,120178.0,,Other,0,0,0,0,0,0,0,No
+842,120178,Sophomore,FAA,,Architecture,,,,,Communication,,,120221.0,,BM-NEW,0,0,0,0,0,0,0,No
+843,120155,Senior,LAS,,Global Studies,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+844,120151,Freshman,GRAD,,Graduate Studies,,,,Business,Communication,,,,120201.0,Other,0,0,0,0,0,0,0,No
+845,120201,Graduate,DGS,,Undeclared (Division of General Studies),,,,,,,,120161.0,120201.0,Other,0,0,0,0,0,0,0,No
+846,120201,Junior,FAA,,Architectural Studies,,,,,,,,120178.0,,Other,0,0,0,0,0,0,0,No
+847,120228,Freshman,LAS,,Religion,,,,,,,,,120201.0,BM-NEW,0,0,0,0,0,0,0,No
+848,120161,Senior,LAS,,Italian,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+849,120178,Graduate,LAS,,Physics,,,,Business,,,,120201.0,,BM-RETURNING,0,1,0,0,0,0,0,Yes
+850,120201,Junior,AHS,,Speech & Hearing Science,,,,,,,,120201.0,120231.0,Other,0,0,0,0,0,0,0,No
+851,120151,Freshman,GRAD,,Graduate Studies,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+852,120178,Freshman,BUS,,Strategic Business Development,,,,,,,,120221.0,,Other,1,1,0,0,0,0,0,Yes
+853,120161,Sophomore,BUS,,Marketing,,,,Business,,,,120201.0,120231.0,Other,0,0,1,0,1,0,0,Yes
+854,120231,Junior,GCOE,,CS+Astronomy,,,,Business,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+855,120155,Senior,BUS,,Marketing,,,,Business,Leadership Studies,,,,,Other,0,0,1,0,0,1,0,Yes
+856,120228,Junior,LAS,,Astronomy,,,,,,,,120201.0,,Other,0,0,0,0,0,0,0,No
+857,120151,Senior,EDUC,,Early Childhood Education,,,,,,,,,120201.0,Other,0,0,0,0,0,0,1,No
+858,120155,Sophomore,GRAD,,Graduate Studies,,,,Business,Leadership Studies,,,,120161.0,Other,0,0,0,0,0,0,0,No
+859,120161,Junior,LAS,,Biology,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+860,120155,Sophomore,LAS,,History,,,,Business,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+861,120161,Freshman,AHS,,Community Health,,,,Business,,,,120201.0,120161.0,Other,0,0,0,0,0,0,0,No
+862,120161,Junior,GCOE,,CS+Crop Sciences,,,,Business,Statistics,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+863,120201,Graduate,LAS,,Biochemistry,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+864,120228,Freshman,GCOE,,Aerospace Engineering,,,,Business,Informatics,,,,,BM-RETURNING,0,0,0,1,0,0,0,Yes
+865,120221,Sophomore,GCOE,,CS+Philosophy,,,,Business,,,,120221.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+866,120161,Junior,DGS,,Undeclared (Division of General Studies),,,,Business,Statistics,,,,,Other,0,0,0,0,0,0,0,No
+867,120161,Senior,BUS,,Marketing,,,,Business,,,,,120231.0,Other,0,0,1,0,0,0,0,Yes
+868,120155,Sophomore,GCOE,,Computer Science,,,,,,,,,120201.0,Gies,0,0,0,0,0,0,0,No
+869,120201,Junior,LAW,,Law (Undergrad Non-Degree/Pre-Law),,,,,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+870,120155,Sophomore,iSchool,,Information Sciences,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+871,120161,Sophomore,GRAD,,Graduate Studies,,,,Business,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+872,120155,Junior,LAS,,Geology,,,,,Communication,,,,,Other,0,0,0,0,0,0,0,No
+873,120221,Senior,AHS,,Kinesiology,,,,Business,,,,,120161.0,BM-RETURNING,0,0,0,0,0,0,0,No
+874,120151,Sophomore,LAS,,Geology,,,,,,,,,,Other,0,1,0,0,0,0,0,Yes
+875,120155,Senior,ACES,,Animal Sciences,,,,,Informatics,,,120178.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+876,120221,Senior,MEDIA,,Journalism,,,,Business,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+877,120155,Sophomore,DGS,,Undeclared (Division of General Studies),,,,,,,,,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+878,120155,Sophomore,ACES,,Agri-Accounting,,,,Business,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+879,120178,Sophomore,MEDIA,,Media & Cinema Studies,,,,Business,,,,,,Gies,0,0,0,0,0,0,0,No
+880,120161,Junior,LAS,,Geology,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+881,120155,Junior,LAW,,Law (Undergrad Non-Degree/Pre-Law),,,,Business,,,,120161.0,120231.0,Other,0,0,0,0,0,0,0,No
+882,120151,Senior,BUS,,Operations Management,,,,,,,,120221.0,,Other,0,1,0,0,1,0,0,Yes
+883,120231,Senior,FAA,,Art History,,,,,,,,,,Other,0,0,0,0,0,0,1,No
+884,120228,Graduate,LAW,,Law (Undergrad Non-Degree/Pre-Law),,,,,,,,,120201.0,Gies,0,0,0,0,1,0,0,Yes
+885,120151,Sophomore,VetMed,,Veterinary Medicine (Preveterinary/Undergrad),,,,,Communication,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+886,120201,Senior,GCOE,,Materials Science & Engineering,,,,,,,,,120231.0,BM-NEW,0,0,0,0,0,0,1,No
+887,120155,Senior,LAS,,History,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+888,120228,Junior,LAS,,Religion,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+889,120221,Freshman,GCOE,,Computer Science,,,,,Leadership Studies,,,120201.0,,BM-NEW,0,0,0,0,0,0,0,No
+890,120228,Sophomore,EDUC,,Elementary Education,,,,,Statistics,,,,,Other,0,0,0,0,0,0,0,No
+891,120221,Junior,BUS,,Accountancy,,,,Business,,,,120178.0,120201.0,BM-RETURNING,0,0,0,0,0,0,0,No
+892,120161,Junior,BUS,,Supply Chain Management,,,,,,,,120178.0,,Other,1,0,0,0,0,0,0,Yes
+893,120221,Senior,ACES,,Natural Resources & Environmental Sciences,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+894,120201,Senior,ACES,,Crop Sciences,,,,,,,,120178.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+895,120228,Graduate,FAA,,Architecture,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+896,120161,Senior,DGS,,Undeclared (Division of General Studies),,,,Business,,,,,,BM-NEW,0,0,0,0,1,0,0,Yes
+897,120231,Sophomore,EDUC,,Special Education,,,,Business,Informatics,,,120221.0,120231.0,Other,1,0,0,0,0,0,0,Yes
+898,120155,Freshman,LAS,,Mathematics,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+899,120221,Senior,LAS,,"Earth, Society & Environmental Sustainability",,,,,,,,,,Other,0,0,0,1,0,0,0,Yes
+900,120178,Freshman,DGS,,Undeclared (Division of General Studies),,,,Business,Statistics,,,,,Other,0,0,0,0,0,0,0,No
+901,120161,Sophomore,BUS,,Finance,,,,,,,,120221.0,,Other,1,0,0,0,0,1,0,Yes
+902,120161,Freshman,AHS,,Kinesiology,,,,,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+903,120155,Freshman,LAS,,History,,,,Business,,,,120178.0,,Gies,0,0,0,0,0,0,0,No
+904,120178,Senior,LAS,,Biochemistry,,,,Business,,,,120151.0,120201.0,Gies,0,0,0,0,0,0,0,No
+905,120231,Senior,MEDIA,,Media & Cinema Studies,,,,,Informatics,,,,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+906,120161,Junior,LAS,,Astronomy,,,,Business,,,,120221.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+907,120221,Sophomore,LAS,,Arabic,,,,Business,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+908,120228,Senior,LAS,,Arabic,,,,Business,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+909,120161,Freshman,DGS,,Undeclared (Division of General Studies),,,,,,,,,,Other,0,0,0,0,0,0,0,No
+910,120231,Sophomore,GCOE,,Agricultural & Biological Engineering,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+911,120231,Junior,SSW,,Social Work,,,,Business,,,,,,BM-RETURNING,0,1,0,0,0,0,0,Yes
+912,120178,Senior,LAS,,History,,,,,,,,120161.0,,BM-RETURNING,0,0,0,0,0,1,0,Yes
+913,120178,Senior,LAS,,African American Studies,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+914,120151,Senior,GCOE,,Industrial Engineering,,,,,,,,,120231.0,Other,0,0,0,0,0,0,0,No
+915,120228,Freshman,LAS,,French,,,,,Communication,,,,,Other,0,0,0,0,0,1,0,Yes
+916,120228,Freshman,LAS,,Comparative Literature,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+917,120155,Senior,BUS,,Operations Management,,,,Business,,,,120221.0,,Other,0,0,0,0,1,1,0,Yes
+918,120228,Junior,BUS,,Finance,,,,Business,,,,,120161.0,BM-RETURNING,0,0,0,0,0,0,0,No
+919,120151,Junior,GCOE,,CS+Geography & GIS,,,,Business,,,,120201.0,120161.0,BM-NEW,0,1,0,0,0,0,0,Yes
+920,120228,Senior,GCOE,,CS+Linguistics,,,,Business,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+921,120221,Senior,MEDIA,,Advertising,,,,,,,,,120231.0,Other,0,0,0,0,0,0,0,No
+922,120161,Senior,ACES,,Animal Sciences,,,,Business,Statistics,,,120201.0,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+923,120161,Junior,BUS,,Strategic Business Development,,,,,,,,,120161.0,BM-NEW,0,1,0,0,1,0,0,Yes
+924,120221,Senior,ACES,,Food Science & Human Nutrition,,,,,,,,120161.0,,Gies,0,0,0,0,0,0,0,No
+925,120231,Freshman,AHS,,Interdisciplinary Health Sciences,,,,Business,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+926,120228,Graduate,GCOE,,CS+Chemistry,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+927,120201,Junior,FAA,,Music Technology,,,,,Communication,,,,120231.0,BM-NEW,0,0,0,0,0,0,0,No
+928,120161,Senior,FAA,,Music,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+929,120151,Freshman,ACES,,Human Development & Family Studies,,,,,,,,,120201.0,BM-RETURNING,0,0,0,0,0,0,0,No
+930,120201,Sophomore,GCOE,,CS+Linguistics,,,,Business,,,,,120161.0,Other,0,0,0,0,0,0,0,No
+931,120151,Senior,LAS,,Astronomy,,,,Business,,,,,,Gies,0,1,0,0,0,0,0,Yes
+932,120231,Freshman,LAS,,Portuguese,,,,Business,,,,120178.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+933,120228,Freshman,BUS,,Supply Chain Management,,,,Business,,,,,120231.0,Other,0,1,0,0,0,1,0,Yes
+934,120151,Senior,LAS,,Psychology,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+935,120228,Junior,DGS,,Undeclared (Division of General Studies),,,,Business,,,,,,Gies,0,0,0,0,0,0,0,No
+936,120228,Freshman,GCOE,,Computer Science,,,,,,,,,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+937,120178,Senior,GCOE,,CS+Geography & GIS,,,,,,,,120161.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+938,120228,Senior,EDUC,,Middle Grades Education,,,,Business,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+939,120161,Junior,DGS,,Undeclared (Division of General Studies),,,,,,,,,120161.0,BM-RETURNING,0,0,0,1,0,0,0,Yes
+940,120155,Freshman,GCOE,,Aerospace Engineering,,,,Business,,,,120151.0,,Other,0,0,0,0,0,0,0,No
+941,120161,Sophomore,GCOE,,Computer Science,,,,Business,,,,120161.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+942,120155,Sophomore,LAS,,Communication,,,,,,,,120201.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+943,120228,Freshman,iSchool,,Information Sciences,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+944,120161,Junior,LAS,,Sociology,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+945,120221,Sophomore,AHS,,Interdisciplinary Health Sciences,,,,Business,Informatics,,,,,Other,0,0,0,0,0,0,0,No
+946,120231,Sophomore,iSchool,,Information Sciences + X,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+947,120151,Freshman,LAW,,Law (Undergrad Non-Degree/Pre-Law),,,,,,,,,,Other,0,0,0,0,0,0,0,No
+948,120151,Sophomore,BUS,,Supply Chain Management,,,,,,,,,,BM-NEW,0,0,0,0,1,0,0,Yes
+949,120221,Senior,iSchool,,Information Sciences,,,,Business,Communication,,,120161.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+950,120201,Sophomore,BUS,,Accountancy,,,,,Communication,,,120151.0,,BM-NEW,0,1,0,0,0,0,0,Yes
+951,120201,Freshman,BUS,,Information Systems,,,,,,,,120221.0,,Other,0,0,0,0,0,1,0,Yes
+952,120201,Sophomore,LAS,,Anthropology,,,,Business,,,,,,BM-RETURNING,0,1,0,0,0,0,0,Yes
+953,120231,Junior,ACES,,Animal Sciences,,,,Business,,,,120151.0,120201.0,BM-RETURNING,0,1,0,0,0,0,0,Yes
+954,120231,Senior,DGS,,Undeclared (Division of General Studies),,,,Business,Statistics,,,120201.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+955,120228,Sophomore,SSW,,Social Work,,,,,,,,,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+956,120178,Senior,VetMed,,Veterinary Medicine (Preveterinary/Undergrad),,,,,Leadership Studies,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+957,120151,Junior,LAS,,Physics,,,,Business,Statistics,,,120151.0,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+958,120161,Sophomore,GRAD,,Graduate Studies,,,,Business,,,,120221.0,120231.0,Other,0,0,0,0,0,0,0,No
+959,120151,Freshman,ACES,,Crop Sciences,,,,,,,,120221.0,120201.0,Other,0,0,0,0,0,0,0,No
+960,120155,Freshman,iSchool,,Information Sciences,,,,,Leadership Studies,,,,,Gies,0,0,0,0,0,0,0,No
+961,120201,Graduate,EDUC,,Early Childhood Education,,,,Business,,,,120178.0,120201.0,BM-NEW,0,1,0,0,0,0,0,Yes
+962,120231,Senior,LAS,,Geology,,,,,,,,,,BM-NEW,0,0,0,0,0,0,0,No
+963,120231,Junior,LAS,,Economics,,,,Business,,,,120178.0,,Other,0,0,0,0,0,0,0,No
+964,120161,Sophomore,BUS,,Supply Chain Management,,,,Business,Leadership Studies,,,120178.0,120161.0,Other,0,0,0,0,0,1,0,Yes
+965,120228,Junior,LAS,,Portuguese,,,,Business,,,,,120201.0,BM-NEW,0,0,0,0,0,0,0,No
+966,120151,Junior,GCOE,,Engineering Mechanics,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+967,120201,Senior,LAS,,Advertising,,,,Business,,,,,120231.0,Other,0,1,0,0,0,0,0,Yes
+968,120228,Sophomore,GCOE,,Aerospace Engineering,,,,Business,,,,,,BM-RETURNING,0,0,0,0,1,0,0,Yes
+969,120228,Sophomore,LAS,,Geology,,,,Business,,,,120178.0,120231.0,BM-RETURNING,0,0,0,0,0,0,0,No
+970,120161,Sophomore,AHS,,"Recreation, Sport & Tourism",,,,,,,,120221.0,,Other,0,0,0,0,0,0,0,No
+971,120221,Senior,GCOE,,CS+Statistics,,,,,,,,,,Other,0,1,0,0,0,0,0,Yes
+972,120161,Senior,FAA,,Architecture,,,,Business,Statistics,,,,,Other,0,0,0,0,0,0,0,No
+973,120231,Senior,ACES,,Natural Resources & Environmental Sciences,,,,,Statistics,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+974,120228,Senior,LAS,,Communication,,,,Business,Informatics,,,120151.0,120231.0,Other,0,0,0,0,0,0,0,No
+975,120221,Freshman,GCOE,,CS+Statistics,,,,Business,Leadership Studies,,,,120201.0,BM-NEW,0,0,0,0,0,1,0,Yes
+976,120161,Junior,LAW,,Law (Undergrad Non-Degree/Pre-Law),,,,Business,Communication,,,,,Other,0,0,0,0,0,0,0,No
+977,120151,Sophomore,LER,,Labor & Employment Relations,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+978,120228,Junior,GRAD,,Graduate Studies,,,,,,,,120201.0,120161.0,Other,0,0,0,0,0,1,0,Yes
+979,120231,Freshman,GCOE,,Mechanical Engineering,,,,,,,,120201.0,,Gies,0,0,0,0,0,0,0,No
+980,120231,Senior,ACES,,Natural Resources & Environmental Sciences,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+981,120178,Senior,BUS,,Business Analytics,,,,,,,,,,BM-RETURNING,0,1,0,1,0,0,0,Yes
+982,120151,Freshman,LAS,,Geology,,,,,Leadership Studies,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+983,120155,Freshman,LAS,,Global Studies,,,,,Communication,,,120201.0,,BM-RETURNING,0,0,0,0,0,1,0,Yes
+984,120178,Sophomore,LAS,,Astronomy,,,,,,,,120221.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+985,120228,Senior,GCOE,,Engineering Mechanics,,,,,Leadership Studies,,,,,Other,0,0,0,0,0,0,0,No
+986,120155,Graduate,MEDIA,,Journalism,,,,,,,,120161.0,120201.0,Other,0,0,0,0,0,0,0,No
+987,120231,Junior,GCOE,,CS+Statistics,,,,,,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+988,120161,Senior,DGS,,Undeclared (Division of General Studies),,,,,,,,,120201.0,Other,0,0,0,0,0,0,0,No
+989,120201,Junior,GCOE,,CS+Astronomy,,,,,,,,120178.0,120231.0,BM-NEW,0,0,0,0,0,0,0,No
+990,120221,Senior,LAS,,Psychology,,,,Business,Communication,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+991,120178,Senior,EDUC,,Elementary Education,,,,,,,,,,BM-RETURNING,0,0,0,1,0,0,0,Yes
+992,120231,Freshman,ACES,,Agri-Accounting,,,,,Leadership Studies,,,120201.0,,BM-RETURNING,0,0,0,0,0,0,0,No
+993,120155,Sophomore,LER,,Labor & Employment Relations,,,,Business,,,,,,Other,0,0,0,0,0,0,0,No
+994,120151,Senior,GRAD,,Graduate Studies,,,,Business,Communication,,,,,BM-NEW,0,0,0,0,0,0,0,No
+995,120178,Sophomore,GCOE,,Bioengineering,,,,,Communication,,,,,BM-RETURNING,0,0,0,0,0,0,0,No
+996,120151,Freshman,GCOE,,Industrial Engineering,,,,Business,,,,120151.0,,BM-NEW,0,0,0,0,0,0,0,No
+997,120201,Junior,DGS,,Undeclared (Division of General Studies),,,,,,,,120161.0,120161.0,Other,0,0,0,0,0,0,0,No
+998,120228,Senior,LAS,,Classics,,,,,,,,,,Other,0,0,0,0,0,0,0,No
+999,120161,Junior,LAS,,Classics,,,,Business,,,,120151.0,120201.0,BM-RETURNING,0,0,0,0,0,0,1,No
+1000,120161,Sophomore,FAA,,Music Technology,,,,,,,,,,Other,0,0,0,0,0,1,0,Yes
